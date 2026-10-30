@@ -47,9 +47,9 @@ def split_dataset():
     split = raw_dataset["train"].train_test_split(
         test_size=val_size, seed=split_seed
     )
-    test_set=raw_dataset["test"]
-    train_set=split["train"]
-    val_set=split["test"]
+    test_set = raw_dataset["test"]
+    train_set = split["train"]
+    val_set = split["test"]
 
     return train_set, val_set, test_set
 
@@ -69,9 +69,9 @@ def describe(name, dataset):
         num_words = len(words)
         n_words.append(num_words)
     n_words = np.array(n_words)
-    print(f"  words per text: mean {n_words.mean():.1f}, max {n_words.max()}")
+    print(f" {name} words per text: mean {n_words.mean():.1f}, max {n_words.max()}")
     counts = np.bincount(labels)
-    print(dict(zip(classes, counts.tolist())))
+    print(f" {name} class: {dict(zip(classes, counts.tolist()))}")
 
 
 if __name__ == "__main__":

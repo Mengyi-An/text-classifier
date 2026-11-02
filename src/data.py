@@ -24,8 +24,6 @@ val_size = 5000
 split_seed = 42
 
 
-
-
 def split_dataset():
     """
     function: split dataset into train, val, test
@@ -35,7 +33,7 @@ def split_dataset():
             features: ['text', 'label'],
             num_rows: 115000
         })
-        test: Dataset({
+    test: Dataset({
             features: ['text', 'label'],
             num_rows: 5000
         })

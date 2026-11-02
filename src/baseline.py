@@ -41,8 +41,8 @@ def main():
     test_acc = accuracy_score(y_test, y_test_pred)
     print(f"test_acc: {test_acc}")
     classification_rep = classification_report(y_test, y_test_pred, target_names=classes)
-    print(f"classification_report:")
-    print(f"{classification_rep}")
+    print("classification_report:")
+    print(classification_rep)
     
     # return x_train, y_train, x_val, y_val, x_test, y_test
 

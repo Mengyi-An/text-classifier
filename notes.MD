@@ -35,17 +35,22 @@
 
    3\) model.py
 
-5. 将token 转成 vector 之后，一般头尾会多出两个特殊的 vector，分别是 [CLS] 和 [SEP]，分别代表了文本的开始和结束。
-以下是一个简单的 example:
+5. tokenizer 切分时，会在头尾自动加两个特殊 token：[CLS] 和 [SEP]，分别代表文本的开始和结束。它们和普通 token 一样，也会被转成 vector。
+
+以下是一个简单的 example：
+
+```
 原文：      apple reports profit
 tokenize：  [CLS] apple reports profit [SEP]
 编号：       101   6207   ...    ...    102
+```
 
-[CLS]（classification，编号 101）
-永远放在开头。
-不代表任何词，是一个"汇总位"。
-经过注意力后，它会收集整句话的信息，所以分类时用它的向量。
+**[CLS]**（classification，编号 101）
+- 永远放在开头。
+- 不代表任何词，是一个"汇总位"。
+- 经过注意力后，它会收集整句话的信息，所以分类时用它的向量。
 
-[SEP]（separator，编号 102）
-放在结尾，表示"一段文本到这里结束"。
-BERT 预训练时，有时会同时输入两句话（比如判断第二句是不是第一句的下一句）。这时用 [SEP] 把它们分开：[CLS] 句子A [SEP] 句子B [SEP]。
+**[SEP]**（separator，编号 102）
+- 放在结尾，表示"一段文本到这里结束"。
+- BERT 预训练时，有时会同时输入两句话（比如判断第二句是不是第一句的下一句）。这时用 [SEP] 把它们分开：`[CLS] 句子A [SEP] 句子B [SEP]`。
+

@@ -21,3 +21,31 @@
 
    4\) TF-IDF
    tf-idf(w, m) = tf(w, m) × idf(w)
+
+4. 文件说明及函数记录
+
+   1\) data.py:
+      - split_dataset: 划分数据集
+      - tokenize_dataset：convert text into tokens, and the type of tokens is a dictornary
+
+   2\) baseline.py
+      - 文本转向量：用 TF-IDF 把每篇文章变成一个 64042 维的向量，每一维对应词表里的一个词。
+      - 训练：LogisticRegression 在训练集上 fit，学出每个词对每个类别的权重。
+      - 预测和评估：模型对 val 和 test 做 predict 得到预测类别，再用 accuracy_score 和真实标签对比，算出准确率。
+
+   3\) model.py
+
+5. 将token 转成 vector 之后，一般头尾会多出两个特殊的 vector，分别是 [CLS] 和 [SEP]，分别代表了文本的开始和结束。
+以下是一个简单的 example:
+原文：      apple reports profit
+tokenize：  [CLS] apple reports profit [SEP]
+编号：       101   6207   ...    ...    102
+
+[CLS]（classification，编号 101）
+永远放在开头。
+不代表任何词，是一个"汇总位"。
+经过注意力后，它会收集整句话的信息，所以分类时用它的向量。
+
+[SEP]（separator，编号 102）
+放在结尾，表示"一段文本到这里结束"。
+BERT 预训练时，有时会同时输入两句话（比如判断第二句是不是第一句的下一句）。这时用 [SEP] 把它们分开：[CLS] 句子A [SEP] 句子B [SEP]。

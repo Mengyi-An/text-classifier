@@ -34,6 +34,8 @@
       - 预测和评估：模型对 val 和 test 做 predict 得到预测类别，再用 accuracy_score 和真实标签对比，算出准确率。
 
    3\) model.py
+      - 主要是写了一个模型类，利用nn.Module继承的 pytorch 的 功能
+      - 功能有：将 token 转成 vector，然后获得最后一层的 cls，再调用 classifier (参数为 cls)对类别进行预测。其中 classifier 中包含了 dropout 和 linear，注意在 classifier 中没有写 softmax，因为在计算 crossentropy中已经包含了 softmax 的计算。
 
 5. tokenizer 切分时，会在头尾自动加两个特殊 token：[CLS] 和 [SEP]，分别代表文本的开始和结束。它们和普通 token 一样，也会被转成 vector。
 

@@ -37,6 +37,9 @@
       - 主要是写了一个模型类，利用nn.Module继承的 pytorch 的 功能
       - 功能有：将 token 转成 vector，然后获得最后一层的 cls，再调用 classifier (参数为 cls)对类别进行预测。其中 classifier 中包含了 dropout 和 linear，注意在 classifier 中没有写 softmax，因为在计算 crossentropy中已经包含了 softmax 的计算。
 
+   4\) train.py
+      - get_dataloaders：将数据集一个 batch 一个 batch 的读取出来并转成 tensor
+
 5. tokenizer 切分时，会在头尾自动加两个特殊 token：[CLS] 和 [SEP]，分别代表文本的开始和结束。它们和普通 token 一样，也会被转成 vector。
 
 以下是一个简单的 example：

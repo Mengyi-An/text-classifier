@@ -2,3 +2,5 @@ datasets==5.1.0
 numpy==2.4.6
 scikit-learn==1.9.1
 transformers==5.22.1
+torch==2.15.0
+matplotlib==3.11.2

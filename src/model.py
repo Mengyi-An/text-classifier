@@ -1,3 +1,17 @@
+"""
+DistilBERT text classifier for AG News.
+
+Structure:
+    1. Encoder: pretrained DistilBERT turns each token into a 768-dim vector
+    2. Take the [CLS] vector as the representation of the whole text
+    3. Classifier: Dropout + Linear(768, 4) outputs logits for the 4 classes
+
+The model outputs logits only, as softmax is included in CrossEntropyLoss.
+
+Usage (shape check):
+    python -m src.model
+"""
+
 import torch
 from torch import nn
 from transformers import AutoModel

@@ -31,7 +31,7 @@ def split_dataset():
     """
     function: split dataset into train, val, test
 
-    output: 
+    the output of the raw_dataset: 
     train: Dataset({
             features: ['text', 'label'],
             num_rows: 115000
@@ -93,10 +93,12 @@ def describe_tokens(name, dataset, tokenizer):
         # }
         tokens = tokenizer(text) 
         num_tokens = len(tokens["input_ids"])
-        n_tokens.append(num_tokens)
+        n_tokens.append(num_tokens) # n_tokens is a list, which contains the number of tokens in each text
     n_tokens = np.array(n_tokens) # numpy
     # print(f"{name} n_tokens: {n_tokens}") in order to check the type of n_tokens
     for limit in [64, 128]:
+        # token 数超过 64 的文章，占全部文章的百分之几, 超过 128 的文章，占全部文章的百分之几
+        # n_tokens > limit is a boolean array, which contains True or False, True means the number of tokens in this text is greater than limit, False means the number of tokens in this text is less than or equal to limit
         print(f"  {name} longer than {limit}: {(n_tokens > limit).mean():.2%}")
 
 def tokenize(batch, tokenizer):
@@ -108,7 +110,7 @@ def tokenize(batch, tokenizer):
 
 def tokenize_dataset(dataset, tokenizer):
     """
-    function: split the whole dataset into tokens, and call tokenize() to split each batch into tokens
+    function: split the whole dataset into tokens, and call function tokenize to split each batch into tokens
     """
     # dataset.map() is similar with for loop, which could be used to deal with each batch of data in the dataset.
     return dataset.map(
@@ -128,7 +130,11 @@ if __name__ == "__main__":
     describe_tokens("test", test_set, tokenizer)
 
     train_tokenized = tokenize_dataset(train_set, tokenizer)
-    print(train_tokenized)
-    print(train_tokenized[0])
+    val_tokenized = tokenize_dataset(val_set, tokenizer)
+    test_tokenized = tokenize_dataset(test_set, tokenizer)
+    print(f"Training tokenized: {train_tokenized}")
+    print(f"Validation tokenized: {val_tokenized}")
+    print(f"Test tokenized: {test_tokenized}")  
+
 
     

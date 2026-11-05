@@ -2,7 +2,7 @@
 Plot training curves from data/metrics.json (written by src/train.py).
 
 Draws train vs val loss and train vs val accuracy per epoch, with the
-TF-IDF + logistic regression baseline test accuracy as a dashed line.
+TF-IDF + logistic regression baseline validation accuracy as a dashed line.
 
 Output: figures/training_curves.png
 
@@ -17,9 +17,9 @@ from src.data import data_path
 
 figures_path = os.path.join(os.path.dirname(__file__), "..", "figures")
 
-# baseline test accuracy from `python -m src.baseline` (logistic regression has no
+# baseline validation accuracy from `python -m src.baseline` (logistic regression has no
 # epochs, so it is a single number rather than a curve)
-baseline_test_acc = 0.9172
+baseline_val_acc = 0.9128
 
 
 def load_metrics():
@@ -49,8 +49,8 @@ def plot_curves(metrics):
 
     ax2.plot(epochs, train_acc, marker="o", label="train")
     ax2.plot(epochs, val_acc, marker="o", label="val")
-    # baseline has no curve, so draw its test accuracy as a horizontal line
-    ax2.axhline(baseline_test_acc, color="grey", linestyle="--", label="TF-IDF + LR baseline (test)")
+    # baseline has no curve, so draw its validation accuracy as a horizontal line
+    ax2.axhline(baseline_val_acc, color="grey", linestyle="--", label="TF-IDF + LR baseline (val)")
     ax2.set_xlabel("epoch")
     ax2.set_ylabel("accuracy")
     ax2.set_title("Accuracy")

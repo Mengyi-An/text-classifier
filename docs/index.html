@@ -132,6 +132,18 @@
     .guess.scitech { color: var(--scitech); }
     .empty { color: var(--muted); font-size: 0.9rem; }
 
+    /* phones: tighter spacing, 2x2 stats, shorter lists so several topics fit on one screen */
+    @media (max-width: 600px) {
+      main { padding: 28px 14px 36px; }
+      header .date { font-size: 1rem; }
+      .stats { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+      .card { padding: 16px; }
+      ul { max-height: 300px; }
+      .card.uncertain ul { max-height: 300px; }
+      .layout { gap: 14px; margin-top: 24px; }
+      li a { display: block; }  /* bigger tap target */
+    }
+
     .status { margin-top: 16px; color: var(--muted); }
     .status.error { color: var(--bad); }
     footer { margin-top: 24px; color: var(--muted); font-size: 0.9rem; }

@@ -1,0 +1,59 @@
+# Every day: fetch RSS -> classify with the model from the Hugging Face Hub -> commit docs/brief.json.
+# GitHub Pages serves docs/, so the page updates on its own after each commit.
+
+name: Daily brief
+
+on:
+  schedule:
+    - cron: "0 6 * * *"   # 06:00 UTC every day (14:00 Beijing time)
+  workflow_dispatch:       # also allow a manual run from the Actions tab
+
+permissions:
+  contents: write          # needed to push the new brief.json
+
+jobs:
+  brief:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      # CPU-only PyTorch: the runner has no GPU, and the default wheel would pull ~2GB of CUDA libraries
+      - name: Install dependencies
+        run: |
+          pip install torch==2.15.0 --index-url https://download.pytorch.org/whl/cpu
+          pip install -r requirements.txt
+
+      # keep the downloaded DistilBERT tokenizer/weights and model.pt between runs
+      - uses: actions/cache@v4
+        with:
+          path: |
+            ~/.cache/huggingface
+            data/model.pt
+          key: hf-${{ hashFiles('src/model.py', 'src/data.py') }}-v1
+
+      - name: Download the trained model
+        run: |
+          if [ ! -f data/model.pt ]; then
+            hf download callmezoey/agnews-distilbert model.pt --local-dir data
+          fi
+
+      - name: Build the brief
+        run: python -m src.daily_brief
+
+      - name: Commit the brief
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs/brief.json
+          if git diff --cached --quiet; then
+            echo "no changes"
+          else
+            git commit -m "Daily brief $(date -u +%Y-%m-%d)"
+            git push
+          fi

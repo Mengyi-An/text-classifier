@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-06 10:13 UTC",
+  "generated_at": "2026-11-06 10:48 UTC",
   "threshold": 0.9,
-  "total": 201,
+  "total": 202,
   "groups": {
     "World": [
       {
@@ -32,7 +32,7 @@
         "title": "Tanzanian opposition leader found guilty of incitement",
         "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 10:05:32 GMT",
+        "published": "Fri, 06 Nov 2026 10:37:12 GMT",
         "class": "World",
         "confidence": 0.9996
       },
@@ -83,6 +83,14 @@
         "published": "Thu, 05 Nov 2026 19:32:54 GMT",
         "class": "World",
         "confidence": 0.9987
+      },
+      {
+        "title": "Two dead after bus crashes in France, officials say",
+        "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 06 Nov 2026 10:36:31 GMT",
+        "class": "World",
+        "confidence": 0.9986
       },
       {
         "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
@@ -141,14 +149,6 @@
         "confidence": 0.9964
       },
       {
-        "title": "'Several victims' after bus crashes in France, officials say",
-        "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 09:57:11 GMT",
-        "class": "World",
-        "confidence": 0.9961
-      },
-      {
         "title": "Trump signs order to preserve Oval Office as national monument",
         "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
@@ -163,6 +163,14 @@
         "published": "Thu, 05 Nov 2026 23:09:33 GMT",
         "class": "World",
         "confidence": 0.9949
+      },
+      {
+        "title": "Former Army medic reflects on his toughest moments helping the wounded",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6027720/former-army-medic-reflects-on-his-toughest-moments-helping-the-wounded",
+        "source": "NPR News",
+        "published": "Fri, 06 Nov 2026 04:46:06 -0500",
+        "class": "World",
+        "confidence": 0.9947
       },
       {
         "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
@@ -253,6 +261,14 @@
         "confidence": 0.9754
       },
       {
+        "title": "European skies on high alert after hoax bomb threats this week – Europe live",
+        "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
+        "source": "The Guardian World",
+        "published": "Fri, 06 Nov 2026 10:35:43 GMT",
+        "class": "World",
+        "confidence": 0.9745
+      },
+      {
         "title": "Hoax bomb threats target European airlines and airports for second time in a week",
         "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
@@ -307,14 +323,6 @@
         "published": "Tue, 30 Jun 2026 23:05:19 GMT",
         "class": "World",
         "confidence": 0.9249
-      },
-      {
-        "title": "Paraguay's president is impeached minutes after resigning following a bank collapse",
-        "link": "https://www.npr.org/2026/11/05/nx-s1-6030842/paraguay-president-impeached-bank-collapse",
-        "source": "NPR News",
-        "published": "Thu, 05 Nov 2026 13:30:16 -0500",
-        "class": "World",
-        "confidence": 0.9037
       }
     ],
     "Sports": [
@@ -745,14 +753,6 @@
         "confidence": 0.9885
       },
       {
-        "title": "UK house prices fall at steepest rate in more than three years",
-        "link": "https://www.theguardian.com/business/2026/nov/06/uk-house-prices-fall-at-steepest-rate-in-more-than-three-years",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 08:05:48 GMT",
-        "class": "Business",
-        "confidence": 0.9789
-      },
-      {
         "title": "Welsh aviation firm AerFin bought in £475m deal",
         "link": "https://www.bbc.co.uk/news/articles/cq203vjxnln7o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
@@ -995,6 +995,14 @@
         "confidence": 0.9905
       },
       {
+        "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
+        "link": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
+        "source": "The Guardian World",
+        "published": "Fri, 06 Nov 2026 09:54:12 GMT",
+        "class": "Sci/Tech",
+        "confidence": 0.9901
+      },
+      {
         "title": "UK meat industry hit by cyber-attack which targeted European supermarket freezers",
         "link": "https://www.bbc.co.uk/news/articles/ckq6ndq8l6v0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology",
@@ -1083,14 +1091,6 @@
         "confidence": 0.9678
       },
       {
-        "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-        "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 09:58:52 GMT",
-        "class": "Sci/Tech",
-        "confidence": 0.9647
-      },
-      {
         "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
         "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology",
@@ -1123,6 +1123,14 @@
         "confidence": 0.9416
       },
       {
+        "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
+        "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+        "source": "The Guardian World",
+        "published": "Fri, 06 Nov 2026 10:25:38 GMT",
+        "class": "Sci/Tech",
+        "confidence": 0.9406
+      },
+      {
         "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
         "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
@@ -1150,17 +1158,9 @@
         "title": "Burnham to force employers to publish salaries on job ads in latest government ‘small fix’ – UK politics live",
         "link": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
         "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 10:03:12 GMT",
+        "published": "Fri, 06 Nov 2026 10:28:41 GMT",
         "class": "Sci/Tech",
-        "confidence": 0.9249
-      },
-      {
-        "title": "Low pressure in US midwest brings unseasonable heat to New York and Boston",
-        "link": "https://www.theguardian.com/environment/2026/nov/06/new-york-boston-us-weather-tracker",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 09:54:12 GMT",
-        "class": "Sci/Tech",
-        "confidence": 0.924
+        "confidence": 0.93
       },
       {
         "title": "How long will humans be needed for translation?",
@@ -1309,6 +1309,14 @@
         "confidence": 0.8513
       },
       {
+        "title": "‘Clicky Ponting’ cheating scandal cricketer banned and club relegated",
+        "link": "https://www.theguardian.com/sport/2026/nov/06/clicky-ponting-cheating-scandal-cricketer-brian-devine-banned-club-relegated",
+        "source": "The Guardian World",
+        "published": "Fri, 06 Nov 2026 10:30:38 GMT",
+        "class": "Sports",
+        "confidence": 0.8454
+      },
+      {
         "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
         "link": "https://www.bbc.co.uk/news/articles/c6vgyq598k9po?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
@@ -1381,14 +1389,6 @@
         "confidence": 0.7849
       },
       {
-        "title": "European skies on high alert after hoax bomb threats this week – Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 09:48:13 GMT",
-        "class": "World",
-        "confidence": 0.7826
-      },
-      {
         "title": "How Antonelli 'blew everyone away' to make F1 history",
         "link": "https://www.bbc.co.uk/sport/formula1/articles/c6m2dj7ze9v2o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -1435,6 +1435,14 @@
         "published": "Thu, 17 Sep 2026 05:23:59 GMT",
         "class": "Sports",
         "confidence": 0.7397
+      },
+      {
+        "title": "Leicester fans angry at sponsor's link to porn actress",
+        "link": "https://www.bbc.co.uk/news/articles/cq3dj7jv1d3ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Thu, 05 Nov 2026 21:12:48 GMT",
+        "class": "Sports",
+        "confidence": 0.7363
       },
       {
         "title": "The engine parts that 'fight the laws of the universe'",

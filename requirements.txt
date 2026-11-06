@@ -4,3 +4,4 @@ scikit-learn==1.9.1
 transformers==5.22.1
 torch==2.15.0
 matplotlib==3.11.2
+feedparser==6.0.14

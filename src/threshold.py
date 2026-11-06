@@ -25,7 +25,7 @@ thresholds = [0.5, 0.6, 0.7, 0.8, 0.9, 0.95, 0.99]
 
 def predict_dataset(dataset, model, tokenizer):
     """
-    function: compute accuracy and correct for each batch of text
+    function: compute confidence and correct for each batch of text
     output:
         confidences: numpy array, the confidence of each text, e.g. [0.99, 0.87, 0.42, ...]
         correct: numpy array, whether each prediction is right, e.g. [True, True, False, ...]
@@ -39,10 +39,10 @@ def predict_dataset(dataset, model, tokenizer):
         results = predict(texts, model, tokenizer)
 
         for result, label in zip(results, labels):
-            confidences.append(results["confidence"])
+            confidences.append(result["confidence"])
             correct.append(classes.index(result["class"]) == label) # label is index
 
-            return np.array(confidences), np.array(correct)
+    return np.array(confidences), np.array(correct)
 
 
 def coverage_accuracy(confidences, correct, threshold):

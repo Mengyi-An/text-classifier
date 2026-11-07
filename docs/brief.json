@@ -1,56 +1,40 @@
 {
-  "generated_at": "2026-11-06 10:48 UTC",
+  "generated_at": "2026-11-07 12:51 UTC",
   "threshold": 0.9,
-  "total": 202,
+  "total": 201,
   "groups": {
     "World": [
       {
-        "title": "Macau jails pro-democracy campaigner in city's first national security case",
-        "link": "https://www.bbc.co.uk/news/articles/cmdx33v9vvr2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 06:46:21 GMT",
-        "class": "World",
-        "confidence": 0.9998
-      },
-      {
-        "title": "Nigerian court rules opposition candidate cannot stand in elections",
-        "link": "https://www.bbc.co.uk/news/articles/cw8rzzx46jd5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 05 Nov 2026 22:00:33 GMT",
+        "title": "Israel's Arab-led parties in spotlight after inconclusive election",
+        "link": "https://www.npr.org/2026/11/06/g-s1-152138/israel-election-palestinian-arab-parties",
+        "source": "NPR News",
+        "published": "Fri, 06 Nov 2026 15:42:51 -0500",
         "class": "World",
         "confidence": 0.9997
       },
       {
-        "title": "Sudanese diaspora and human rights groups denounce UAE nominee for UN top job",
-        "link": "https://www.theguardian.com/world/2026/oct/30/sudanese-diaspora-human-rights-groups-denounce-uae-nominee-un-top-job",
-        "source": "The Guardian World",
-        "published": "Fri, 30 Oct 2026 05:00:45 GMT",
-        "class": "World",
-        "confidence": 0.9997
-      },
-      {
-        "title": "Tanzanian opposition leader found guilty of incitement",
+        "title": "Tanzanian opposition leader found guilty of inciting unrest but acquitted of treason",
         "link": "https://www.bbc.co.uk/news/articles/ckp8g4pm0y4lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 10:37:12 GMT",
+        "published": "Fri, 06 Nov 2026 14:57:08 GMT",
         "class": "World",
         "confidence": 0.9996
       },
       {
-        "title": "Melania Trump calls for lasting Ukraine truce as she hosts Russian and Ukrainian officials",
-        "link": "https://www.bbc.co.uk/news/articles/c9p8g085mz07o?at_medium=RSS&at_campaign=rss",
+        "title": "The young Somali woman changing how the world sees Mogadishu",
+        "link": "https://www.bbc.co.uk/news/articles/cq0k0lg48705o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 07:56:19 GMT",
+        "published": "Sat, 07 Nov 2026 01:19:49 GMT",
         "class": "World",
         "confidence": 0.9995
       },
       {
-        "title": "Democratic socialist defeats incumbent Karen Bass in Los Angeles mayor's race",
-        "link": "https://www.bbc.co.uk/news/articles/c6e3xxwk3k11o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 01:28:03 GMT",
+        "title": "Flávio Bolsonaro battles to remain relevant as he speaks at rightwing conference at Mar-a-Lago",
+        "link": "https://www.theguardian.com/world/2026/nov/06/flavio-bolsonaro-upbeat-brazil-election-us",
+        "source": "The Guardian World",
+        "published": "Fri, 06 Nov 2026 13:03:38 GMT",
         "class": "World",
-        "confidence": 0.9994
+        "confidence": 0.9993
       },
       {
         "title": "Tens of thousands protest against Narendra Modi regime in Delhi",
@@ -61,44 +45,36 @@
         "confidence": 0.9993
       },
       {
-        "title": "Somalia's top court rejects president's term extension amid political crisis",
-        "link": "https://www.bbc.co.uk/news/articles/c977ppnezep6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 08:18:10 GMT",
+        "title": "Sebastián Lelio, director of A Fantastic Woman and Gloria, dies aged 52",
+        "link": "https://www.theguardian.com/film/2026/nov/06/sebastian-lelio-chilean-director-dies",
+        "source": "The Guardian World",
+        "published": "Fri, 06 Nov 2026 19:23:24 GMT",
         "class": "World",
-        "confidence": 0.9992
+        "confidence": 0.9989
       },
       {
-        "title": "How North Carolina Democrats flipped several House seats in historically GOP districts",
-        "link": "https://www.npr.org/2026/11/05/nx-s1-6031719/north-carolina-democrats-flip-house-seats-republican-districts",
-        "source": "NPR News",
-        "published": "Thu, 05 Nov 2026 18:34:36 -0500",
-        "class": "World",
-        "confidence": 0.9992
-      },
-      {
-        "title": "Eight killed in series of shootings in western Turkey",
-        "link": "https://www.bbc.co.uk/news/articles/cvj6jj21pd2ko?at_medium=RSS&at_campaign=rss",
+        "title": "Pope in 'pretty good health' as he starts Latin America tour",
+        "link": "https://www.bbc.co.uk/news/articles/c60e0001ve9wo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 05 Nov 2026 19:32:54 GMT",
+        "published": "Sat, 07 Nov 2026 06:59:48 GMT",
         "class": "World",
-        "confidence": 0.9987
+        "confidence": 0.9986
       },
       {
         "title": "Two dead after bus crashes in France, officials say",
         "link": "https://www.bbc.co.uk/news/articles/cmly00l4p3lwo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 10:36:31 GMT",
+        "published": "Fri, 06 Nov 2026 15:33:52 GMT",
         "class": "World",
         "confidence": 0.9986
       },
       {
-        "title": "Chris vs Chris: Who's running and what's at stake this New Zealand election",
-        "link": "https://www.bbc.co.uk/news/videos/cr86zxe1q5j3o?at_medium=RSS&at_campaign=rss",
+        "title": "Kenyan doomsday cult leader given life sentence for murdering 191 people",
+        "link": "https://www.bbc.co.uk/news/articles/cm5yne5984l0o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Thu, 05 Nov 2026 19:08:48 GMT",
+        "published": "Fri, 06 Nov 2026 14:46:03 GMT",
         "class": "World",
-        "confidence": 0.9986
+        "confidence": 0.9984
       },
       {
         "title": "Yemen’s president sacks ministers and officers in attempt to turn tide of war",
@@ -109,84 +85,100 @@
         "confidence": 0.9983
       },
       {
-        "title": "Pope begins lengthy trip to Latin America weeks after lung cancer surgery",
-        "link": "https://www.bbc.co.uk/news/articles/cqn06j0y61k6o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 00:02:57 GMT",
-        "class": "World",
-        "confidence": 0.9976
-      },
-      {
-        "title": "These are the races in the House and Senate that haven't been called yet",
-        "link": "https://www.npr.org/2026/11/05/g-s1-152127/house-senate-uncalled-races",
+        "title": "The incoming class of U.S. senators is full of historic firsts",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6032814/senate-history-election-pappas-andrews-el-sayed",
         "source": "NPR News",
-        "published": "Thu, 05 Nov 2026 19:03:45 -0500",
+        "published": "Fri, 06 Nov 2026 15:21:13 -0500",
         "class": "World",
-        "confidence": 0.9972
+        "confidence": 0.998
       },
       {
-        "title": "Major construction ongoing near Iran missile bases, satellite images suggest",
-        "link": "https://www.bbc.co.uk/news/articles/ckjrwx1r2d5ro?at_medium=RSS&at_campaign=rss",
+        "title": "Russian extremist group denies sending hoax bomb threats",
+        "link": "https://www.bbc.co.uk/news/articles/cm2d66n0lx1yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 07:33:41 GMT",
+        "published": "Fri, 06 Nov 2026 12:51:38 GMT",
         "class": "World",
-        "confidence": 0.9967
+        "confidence": 0.9979
       },
       {
-        "title": "A wildfire killed their loved ones in Spain. These British families demand to know why",
-        "link": "https://www.bbc.co.uk/news/articles/cm3vq4wyeld1o?at_medium=RSS&at_campaign=rss",
+        "title": "New wave of bomb threats hit European airlines",
+        "link": "https://www.bbc.co.uk/news/articles/cq62yy064vjpo?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 06:00:46 GMT",
+        "published": "Fri, 06 Nov 2026 15:25:35 GMT",
         "class": "World",
-        "confidence": 0.9966
+        "confidence": 0.9971
       },
       {
-        "title": "Seven people arrested in Glasgow after Bonfire Night violence across Scotland",
-        "link": "https://www.theguardian.com/uk-news/2026/nov/06/arrests-glasgow-bonfire-night-violence-scotland",
+        "title": "US midterm results may help unite Israeli coalition to unseat Netanyahu",
+        "link": "https://www.theguardian.com/world/2026/nov/07/us-midterm-results-may-help-unite-israeli-coalition-to-unseat-netanyahu",
         "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 08:11:24 GMT",
+        "published": "Sat, 07 Nov 2026 06:00:04 GMT",
         "class": "World",
-        "confidence": 0.9964
+        "confidence": 0.9957
       },
       {
-        "title": "Trump signs order to preserve Oval Office as national monument",
-        "link": "https://www.bbc.co.uk/news/articles/cmy0eeg101djo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 09:19:57 GMT",
-        "class": "World",
-        "confidence": 0.9953
-      },
-      {
-        "title": "California governor commutes sentences for state's 548 death row inmates",
-        "link": "https://www.bbc.co.uk/news/articles/cqrkyyd2j8mvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 05 Nov 2026 23:09:33 GMT",
-        "class": "World",
-        "confidence": 0.9949
-      },
-      {
-        "title": "Former Army medic reflects on his toughest moments helping the wounded",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6027720/former-army-medic-reflects-on-his-toughest-moments-helping-the-wounded",
+        "title": "Pope Leo begins a 12-day, 3-country South America tour after his cancer surgery",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6026702/pope-leo-begins-12-day-3-country-tour-after-cancer-surgery",
         "source": "NPR News",
-        "published": "Fri, 06 Nov 2026 04:46:06 -0500",
+        "published": "Fri, 06 Nov 2026 14:13:06 -0500",
         "class": "World",
-        "confidence": 0.9947
+        "confidence": 0.9954
       },
       {
-        "title": "After cancer surgery, Pope Leo embarks on Latin America trip",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6032454/pope-leo-latin-america-trip",
-        "source": "NPR News",
-        "published": "Fri, 06 Nov 2026 04:19:57 -0500",
+        "title": "This man refused life-saving treatment because of his religion - days later the rules changed",
+        "link": "https://www.bbc.co.uk/news/articles/cx5ynly549njo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 07 Nov 2026 01:27:47 GMT",
         "class": "World",
-        "confidence": 0.9945
+        "confidence": 0.994
       },
       {
-        "title": "How elderly ‘unsung heroes’ powered Lula’s historic fightback in Brazil",
-        "link": "https://www.theguardian.com/world/2026/nov/05/unsung-heroes-behind-lula-surprise-election-triumph-brazil-runoff-bolsonaro",
+        "title": "US carries out another round of ‘minor’ strikes on Iran, Trump says",
+        "link": "https://www.theguardian.com/world/2026/nov/07/us-carries-out-another-round-of-minor-strikes-on-iran-trump-says",
         "source": "The Guardian World",
-        "published": "Thu, 05 Nov 2026 11:00:21 GMT",
+        "published": "Sat, 07 Nov 2026 03:07:01 GMT",
         "class": "World",
-        "confidence": 0.9937
+        "confidence": 0.9936
+      },
+      {
+        "title": "Stephen Miller will replace Susie Wiles as Trump's chief of staff",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6032795/stephen-miller-replace-susie-wiles-trumps-chief-of-staff",
+        "source": "NPR News",
+        "published": "Fri, 06 Nov 2026 14:13:52 -0500",
+        "class": "World",
+        "confidence": 0.9936
+      },
+      {
+        "title": "Further bomb threats disrupt at least another 18 flights across Europe",
+        "link": "https://www.theguardian.com/world/2026/nov/06/further-bomb-threats-disrupt-flights-across-europe",
+        "source": "The Guardian World",
+        "published": "Fri, 06 Nov 2026 17:14:31 GMT",
+        "class": "World",
+        "confidence": 0.9934
+      },
+      {
+        "title": "New Zealand election 2026 live results: National and Labour neck-and-neck as minor party eyes kingmaker role",
+        "link": "https://www.theguardian.com/world/live/2026/nov/07/nz-general-election-2026-live-updates-results-new-zealand-polls",
+        "source": "The Guardian World",
+        "published": "Sat, 07 Nov 2026 12:30:26 GMT",
+        "class": "World",
+        "confidence": 0.9931
+      },
+      {
+        "title": "Strait of Hormuz could reopen as part of Qatari plan for Iran nuclear inspections",
+        "link": "https://www.theguardian.com/world/2026/nov/07/strait-of-hormuz-qatar-plan-iran-nuclear-inspections",
+        "source": "The Guardian World",
+        "published": "Sat, 07 Nov 2026 07:00:04 GMT",
+        "class": "World",
+        "confidence": 0.9931
+      },
+      {
+        "title": "No one knows how many ballots are outstanding in Mississippi's Senate race",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6030645/mississippi-senate-results-provisional-ballots",
+        "source": "NPR News",
+        "published": "Fri, 06 Nov 2026 14:50:14 -0500",
+        "class": "World",
+        "confidence": 0.9912
       },
       {
         "title": "Duchess of Sussex’s estranged half-brother ‘person of interest’ in child sexual abuse inquiry",
@@ -205,36 +197,28 @@
         "confidence": 0.989
       },
       {
-        "title": "Vance walks Trump tightrope with scathing election critique blaming Iran war",
-        "link": "https://www.bbc.co.uk/news/articles/crz98zqkz7z0o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 05 Nov 2026 03:47:56 GMT",
+        "title": "Jaguars inflict fourth straight defeat on Ravens",
+        "link": "https://www.bbc.co.uk/sport/american-football/videos/cwp8gge4r428o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Fri, 06 Nov 2026 14:27:19 GMT",
         "class": "World",
-        "confidence": 0.9882
+        "confidence": 0.9818
       },
       {
-        "title": "Melania Trump touts rare agreement she brokered between Russia and Ukraine",
-        "link": "https://www.npr.org/2026/11/05/nx-s1-6030662/melania-trump-touts-rare-agreement-she-brokered-between-russia-and-ukraine",
-        "source": "NPR News",
-        "published": "Thu, 05 Nov 2026 18:52:48 -0500",
-        "class": "World",
-        "confidence": 0.9873
-      },
-      {
-        "title": "Who could be behind hoax bomb threats to European air travel?",
-        "link": "https://www.bbc.co.uk/news/articles/cx8dzzjg3g9zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 05 Nov 2026 19:58:40 GMT",
-        "class": "World",
-        "confidence": 0.9869
-      },
-      {
-        "title": "Bondi beach shooting: Eva Geller, 90, shot during massacre dies in hospital year after antisemitic attack",
-        "link": "https://www.theguardian.com/australia-news/2026/nov/06/bondi-beach-shooting-woman-dies-year-after-terror-attack-ntwnfb",
+        "title": "Kenyan doomsday sect leader jailed for 200 years for murder of 190 children",
+        "link": "https://www.theguardian.com/world/2026/nov/06/kenyan-doomsday-sect-leader-jailed-murders-paul-mackenzie",
         "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 06:26:03 GMT",
+        "published": "Fri, 06 Nov 2026 15:08:43 GMT",
         "class": "World",
-        "confidence": 0.9811
+        "confidence": 0.9809
+      },
+      {
+        "title": "Women's rights matter more than any league, say Afghan cricketers",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/cwr7ydgv03kvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Fri, 06 Nov 2026 13:40:59 GMT",
+        "class": "World",
+        "confidence": 0.9787
       },
       {
         "title": "The private creative world of Rabindranath Tagore, the man Yeats called ‘greater than any of us’",
@@ -243,6 +227,22 @@
         "published": "Tue, 03 Nov 2026 15:24:53 GMT",
         "class": "World",
         "confidence": 0.9785
+      },
+      {
+        "title": "US midterm results spark fears in Israel over future of two countries' ties",
+        "link": "https://www.bbc.co.uk/news/articles/cx30ee8018lvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 06 Nov 2026 13:23:44 GMT",
+        "class": "World",
+        "confidence": 0.9775
+      },
+      {
+        "title": "Dozens of Democrats eyeing 2028 presidential run, says former Obama aide",
+        "link": "https://www.bbc.co.uk/news/articles/cx8dzzy8n713o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 06 Nov 2026 16:51:01 GMT",
+        "class": "World",
+        "confidence": 0.9772
       },
       {
         "title": "Hong Kong pro-democracy activist Joshua Wong sentenced to 10 years in prison in national security case",
@@ -259,22 +259,6 @@
         "published": "Thu, 05 Nov 2026 10:33:21 GMT",
         "class": "World",
         "confidence": 0.9754
-      },
-      {
-        "title": "European skies on high alert after hoax bomb threats this week – Europe live",
-        "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 10:35:43 GMT",
-        "class": "World",
-        "confidence": 0.9745
-      },
-      {
-        "title": "Hoax bomb threats target European airlines and airports for second time in a week",
-        "link": "https://www.bbc.co.uk/news/articles/cmpqg08nz3pqo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 05 Nov 2026 17:39:48 GMT",
-        "class": "World",
-        "confidence": 0.9621
       },
       {
         "title": "Paraguay’s president quits after millions of people’s savings frozen in bank crisis",
@@ -301,20 +285,12 @@
         "confidence": 0.9468
       },
       {
-        "title": "French protests see numbers surge as unions join strikes over high cost of living",
-        "link": "https://www.bbc.co.uk/news/articles/ckx2qzv835pgo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 05 Nov 2026 17:59:53 GMT",
-        "class": "World",
-        "confidence": 0.937
-      },
-      {
-        "title": "Multiple planes diverted as bomb threats to commercial flights reported across Europe – as it happened",
-        "link": "https://www.theguardian.com/world/live/2026/nov/05/aer-lingus-plane-bomb-threat-europe-latest-news-updates",
+        "title": "ANC faces bruising defeat in South African local elections with 80% of ballots counted",
+        "link": "https://www.theguardian.com/world/2026/nov/06/anc-faces-defeat-south-african-local-elections",
         "source": "The Guardian World",
-        "published": "Thu, 05 Nov 2026 17:57:54 GMT",
+        "published": "Fri, 06 Nov 2026 12:48:37 GMT",
         "class": "World",
-        "confidence": 0.9263
+        "confidence": 0.9442
       },
       {
         "title": "Why Gen Z are planning for life without a state pension",
@@ -323,30 +299,22 @@
         "published": "Tue, 30 Jun 2026 23:05:19 GMT",
         "class": "World",
         "confidence": 0.9249
+      },
+      {
+        "title": "Two men arrested after boy injured in Gloucester sword attack",
+        "link": "https://www.theguardian.com/uk-news/2026/nov/07/sword-attack-gloucester-school-men-arrested-boy-injured",
+        "source": "The Guardian World",
+        "published": "Sat, 07 Nov 2026 12:32:29 GMT",
+        "class": "World",
+        "confidence": 0.9136
       }
     ],
     "Sports": [
       {
-        "title": "Duran & Osmand spark Celtic into life - but where does that leave Hogh?",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cwd099ez7z4yo?at_medium=RSS&at_campaign=rss",
+        "title": "Leicester hold nerve to knock out sixth-tier Oxford City",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c8qlnn4dvp3yo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "Fri, 06 Nov 2026 00:10:28 GMT",
-        "class": "Sports",
-        "confidence": 0.9998
-      },
-      {
-        "title": "Lampard looks for Coventry progress as belief grows",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cr20w943gvl5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Fri, 06 Nov 2026 08:11:03 GMT",
-        "class": "Sports",
-        "confidence": 0.9998
-      },
-      {
-        "title": "From playing against Messi and Ronaldo to non-league",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cw054d7nmndzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Fri, 06 Nov 2026 06:42:07 GMT",
+        "published": "Fri, 06 Nov 2026 23:37:23 GMT",
         "class": "Sports",
         "confidence": 0.9998
       },
@@ -359,18 +327,18 @@
         "confidence": 0.9998
       },
       {
-        "title": "What new Kane deal means for England and the Premier League record",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+        "title": "Has Anderson lived up to the hype after Man City move?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqde8w0k2pz1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "Thu, 05 Nov 2026 14:44:34 GMT",
+        "published": "Fri, 06 Nov 2026 12:00:18 GMT",
         "class": "Sports",
         "confidence": 0.9998
       },
       {
-        "title": "Deschamps not interested in Man Utd job - Friday's gossip",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c9rky3g7e8zro?at_medium=RSS&at_campaign=rss",
+        "title": "McIlroy fires 63 to move into Abu Dhabi contention",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cq78ppmj0zm3o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "Thu, 05 Nov 2026 22:49:23 GMT",
+        "published": "Fri, 06 Nov 2026 11:40:03 GMT",
         "class": "Sports",
         "confidence": 0.9998
       },
@@ -391,26 +359,18 @@
         "confidence": 0.9998
       },
       {
+        "title": "What new Kane deal means for England and the Premier League record",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cm93zvzzl33zo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Thu, 05 Nov 2026 14:44:34 GMT",
+        "class": "Sports",
+        "confidence": 0.9998
+      },
+      {
         "title": "The England player turned World Cup referee",
         "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c6ly377gx8l1o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
         "published": "Thu, 05 Nov 2026 13:28:37 GMT",
-        "class": "Sports",
-        "confidence": 0.9998
-      },
-      {
-        "title": "The referee who became a role model after bouncing back from Diaz error",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cdj4z0lwjzlo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Tue, 03 Nov 2026 06:41:31 GMT",
-        "class": "Sports",
-        "confidence": 0.9998
-      },
-      {
-        "title": "Ireland's home straight to World Cup starts with Pumas",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cve8rx3yxg2eo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Fri, 06 Nov 2026 08:02:48 GMT",
         "class": "Sports",
         "confidence": 0.9998
       },
@@ -421,6 +381,30 @@
         "published": "Wed, 30 Sep 2026 06:07:28 GMT",
         "class": "Sports",
         "confidence": 0.9998
+      },
+      {
+        "title": "England secure group top spot with Ireland win",
+        "link": "https://www.bbc.co.uk/sport/rugby-league/videos/cxly441nej84o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Fri, 06 Nov 2026 13:42:25 GMT",
+        "class": "Sports",
+        "confidence": 0.9997
+      },
+      {
+        "title": "Westwood worried for DP World Tour after LIV collapse",
+        "link": "https://www.bbc.co.uk/sport/golf/articles/cwm244d55pdpo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Fri, 06 Nov 2026 16:25:28 GMT",
+        "class": "Sports",
+        "confidence": 0.9997
+      },
+      {
+        "title": "Raith Rovers go top with Dunfermline draw",
+        "link": "https://www.bbc.co.uk/sport/videos/c3qjnnpr9xzno?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Fri, 06 Nov 2026 22:06:01 GMT",
+        "class": "Sports",
+        "confidence": 0.9997
       },
       {
         "title": "Jaissle unhappy with 'clear foul' before Barry goal",
@@ -439,14 +423,6 @@
         "confidence": 0.9997
       },
       {
-        "title": "Rice is a rounded midfielder, but could be more selfish - Murphy",
-        "link": "https://www.bbc.co.uk/sport/football/videos/ck9dz227v751o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Mon, 02 Nov 2026 00:00:21 GMT",
-        "class": "Sports",
-        "confidence": 0.9997
-      },
-      {
         "title": "Race, illness, injury, repeat - REDs and why men are suffering in silence",
         "link": "https://www.bbc.co.uk/sport/articles/ck054n5nqlv5o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -455,28 +431,60 @@
         "confidence": 0.9997
       },
       {
-        "title": "Rice relishing title race 'anxiety' after win at Liverpool",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cxly47pyy8j6o?at_medium=RSS&at_campaign=rss",
+        "title": "I left Man City for my mental wellbeing - Trafford",
+        "link": "https://www.bbc.co.uk/sport/football/articles/ckly00wq495zo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "Sun, 01 Nov 2026 22:50:05 GMT",
+        "published": "Sat, 07 Nov 2026 07:16:37 GMT",
         "class": "Sports",
         "confidence": 0.9996
       },
       {
-        "title": "Antonelli says 2027 preparation starts now",
-        "link": "https://www.bbc.co.uk/sport/formula1/articles/cx0544g2n1jdo?at_medium=RSS&at_campaign=rss",
+        "title": "Real Madrid and PSG keen on Suzuki - Saturday's gossip",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c98rzz0rjjvdo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "Thu, 05 Nov 2026 21:19:56 GMT",
+        "published": "Fri, 06 Nov 2026 21:08:04 GMT",
+        "class": "Sports",
+        "confidence": 0.9996
+      },
+      {
+        "title": "Lampard feels hair pull should have led to Coventry penalty",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cr15jj0yy8xeo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Fri, 06 Nov 2026 23:22:21 GMT",
         "class": "Sports",
         "confidence": 0.9995
       },
       {
-        "title": "McIlroy handed two-shot penalty for improving lie",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/c6n49k9vyx81o?at_medium=RSS&at_campaign=rss",
+        "title": "Player-coach rift report will only galvanise England - George",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmx2qqyz4p1po?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "Thu, 05 Nov 2026 14:28:16 GMT",
+        "published": "Fri, 06 Nov 2026 18:30:57 GMT",
+        "class": "Sports",
+        "confidence": 0.9995
+      },
+      {
+        "title": "Non-league's greatest giant-killers eye another scalp",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cqev332mv1lyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Sat, 07 Nov 2026 06:45:56 GMT",
         "class": "Sports",
         "confidence": 0.9994
+      },
+      {
+        "title": "Bristol Rovers shock Cambridge United to reach round two",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cxdd88g97lm7o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Fri, 06 Nov 2026 23:26:39 GMT",
+        "class": "Sports",
+        "confidence": 0.9994
+      },
+      {
+        "title": "'Big decisions' affected the game - Lampard",
+        "link": "https://www.bbc.co.uk/sport/football/videos/cm74ppwz9yewo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Fri, 06 Nov 2026 22:40:58 GMT",
+        "class": "Sports",
+        "confidence": 0.9993
       },
       {
         "title": "Everton hold off Newcastle to move into seventh",
@@ -487,36 +495,68 @@
         "confidence": 0.9992
       },
       {
-        "title": "Bellingham & Mbappe score as Real Madrid earn statement win",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cv0ldye7k4g3o?at_medium=RSS&at_campaign=rss",
+        "title": "'A beautiful story' as Bellingham brothers called up",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c5x2vvjy2rpeo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "Sun, 01 Nov 2026 18:37:48 GMT",
+        "published": "Fri, 06 Nov 2026 14:16:34 GMT",
         "class": "Sports",
-        "confidence": 0.9992
+        "confidence": 0.9991
       },
       {
-        "title": "Australia recruit Hussey for Ashes build-up",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/c9y7lln8vyglo?at_medium=RSS&at_campaign=rss",
+        "title": "'Unexplained neurological symptoms' behind Henderson absence",
+        "link": "https://www.bbc.co.uk/sport/american-football/articles/cw0733x400yro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "Fri, 06 Nov 2026 08:05:05 GMT",
+        "published": "Fri, 06 Nov 2026 18:39:33 GMT",
         "class": "Sports",
-        "confidence": 0.9986
+        "confidence": 0.9991
       },
       {
-        "title": "Anderson could be given chance to join Surrey",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/c6wyvvdx2xe9o?at_medium=RSS&at_campaign=rss",
+        "title": "Alcaraz beats Fritz to help Jodar reach ATP finals",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/c6e9lldl3lpjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "Thu, 05 Nov 2026 23:33:52 GMT",
+        "published": "Fri, 06 Nov 2026 22:35:04 GMT",
+        "class": "Sports",
+        "confidence": 0.999
+      },
+      {
+        "title": "Japan date starts pivotal month for Welsh rugby",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cq8ez336g0r1o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Sat, 07 Nov 2026 06:25:09 GMT",
+        "class": "Sports",
+        "confidence": 0.9988
+      },
+      {
+        "title": "WTA chair apologises to Pegula for airing of 'diva' comment",
+        "link": "https://www.bbc.co.uk/sport/tennis/articles/ckpdgg87ye3po?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Fri, 06 Nov 2026 22:28:43 GMT",
         "class": "Sports",
         "confidence": 0.9985
       },
       {
-        "title": "'Everyone saw it' - Iraola confused by Isak penalty decision",
-        "link": "https://www.bbc.co.uk/sport/football/videos/cjdx3dpvevngo?at_medium=RSS&at_campaign=rss",
+        "title": "Barry scores twice as Everton fight back to beat Coventry",
+        "link": "https://www.bbc.co.uk/sport/football/videos/c62l44geqvlyo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "Sun, 01 Nov 2026 19:37:44 GMT",
+        "published": "Fri, 06 Nov 2026 22:30:12 GMT",
         "class": "Sports",
         "confidence": 0.9985
+      },
+      {
+        "title": "Is Palmer's England career over under Tuchel?",
+        "link": "https://www.bbc.co.uk/sport/football/articles/c9e8ll62rp68o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Fri, 06 Nov 2026 16:30:03 GMT",
+        "class": "Sports",
+        "confidence": 0.9985
+      },
+      {
+        "title": "Ferrari's Hamilton-Leclerc problem - and other F1 stories to follow",
+        "link": "https://www.bbc.co.uk/sport/formula1/articles/cm62y4283534o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Fri, 06 Nov 2026 20:52:24 GMT",
+        "class": "Sports",
+        "confidence": 0.9981
       },
       {
         "title": "Allgeier stars in NFL plays of the week",
@@ -527,6 +567,22 @@
         "confidence": 0.9981
       },
       {
+        "title": "My dream is to win Ballon d'Or - Gabriel",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cmy4x9yq3xg3o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Sat, 07 Nov 2026 12:25:14 GMT",
+        "class": "Sports",
+        "confidence": 0.998
+      },
+      {
+        "title": "Scotland come full circle for another crack at All Blacks",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cw62yy06dejzo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Fri, 06 Nov 2026 18:29:09 GMT",
+        "class": "Sports",
+        "confidence": 0.9979
+      },
+      {
         "title": "Every goal from the Women's Super League - matchweek eight",
         "link": "https://www.bbc.co.uk/sport/football/videos/c6rmy008xmzxo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -535,12 +591,28 @@
         "confidence": 0.9979
       },
       {
-        "title": "'A smack in the teeth' - warned coach to work at international youth event",
-        "link": "https://www.bbc.co.uk/sport/gymnastics/articles/c6gm0r08d1elo?at_medium=RSS&at_campaign=rss",
+        "title": "Whole Australia team knew of sandpaper use - Khawaja",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/cjdx33kyzk3lo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "Fri, 06 Nov 2026 06:36:38 GMT",
+        "published": "Fri, 06 Nov 2026 23:11:56 GMT",
         "class": "Sports",
-        "confidence": 0.9975
+        "confidence": 0.9974
+      },
+      {
+        "title": "Six tries and a big win - but were Ireland ruthless?",
+        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmde88ppx39go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Fri, 06 Nov 2026 23:57:05 GMT",
+        "class": "Sports",
+        "confidence": 0.9968
+      },
+      {
+        "title": "New Zealand sweep aside Samoa to reach Women's World Cup final",
+        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c680zz8k3nvvo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Sat, 07 Nov 2026 08:32:15 GMT",
+        "class": "Sports",
+        "confidence": 0.9965
       },
       {
         "title": "Antonelli - the boy 'born in a garage' who became world champion",
@@ -551,20 +623,12 @@
         "confidence": 0.9965
       },
       {
-        "title": "Jones - the smiling wind-up artist who refuses to fade away",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/ckm233n7gerlo?at_medium=RSS&at_campaign=rss",
+        "title": "Zac Efron and Jeremy Allen White star as the Von Erich brothers",
+        "link": "https://www.bbc.co.uk/iplayer/episode/m002w9wy?at_mid=Z14L5CUf9Q&at_campaign=The_Iron_Claw&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=m002w9wy&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=The_Iron_Claw&at_bbc_team=BBC&at_creation=Film",
         "source": "BBC Sport",
-        "published": "Fri, 06 Nov 2026 04:42:05 GMT",
+        "published": "Sun, 10 May 2026 23:07:07 GMT",
         "class": "Sports",
-        "confidence": 0.9941
-      },
-      {
-        "title": "Scotland can be best & worst team in world - Dempsey",
-        "link": "https://www.bbc.co.uk/sport/rugby-union/articles/cmd934jpg59yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Fri, 06 Nov 2026 07:53:44 GMT",
-        "class": "Sports",
-        "confidence": 0.994
+        "confidence": 0.9958
       },
       {
         "title": "Bears deliver statement victory against Seahawks",
@@ -583,28 +647,20 @@
         "confidence": 0.9921
       },
       {
-        "title": "Forest need balance between Woodstock and military - Glasner",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cwg5jj6nvmnyo?at_medium=RSS&at_campaign=rss",
+        "title": "England 'disappointment' fuels Dewsbury-Hall's Everton heroics",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cm4g114p9e7go?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "Thu, 05 Nov 2026 22:30:07 GMT",
+        "published": "Fri, 06 Nov 2026 23:53:06 GMT",
         "class": "Sports",
-        "confidence": 0.9911
+        "confidence": 0.9909
       },
       {
-        "title": "WTA takes 'full responsibility' after Pegula calling Andreeva 'diva' aired",
-        "link": "https://www.bbc.co.uk/sport/tennis/articles/cm1dwll642ngo?at_medium=RSS&at_campaign=rss",
+        "title": "Ponga-inspired New Zealand reach World Cup final",
+        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/cmvgx2e78xrro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "Thu, 05 Nov 2026 16:29:20 GMT",
+        "published": "Sat, 07 Nov 2026 11:45:11 GMT",
         "class": "Sports",
-        "confidence": 0.9888
-      },
-      {
-        "title": "Keep or sell Konsa? - FPL gameweek 10 dilemmas",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cm4g112qp051o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Thu, 05 Nov 2026 22:26:23 GMT",
-        "class": "Sports",
-        "confidence": 0.9885
+        "confidence": 0.9902
       },
       {
         "title": "A bitter end for Ronaldo - the icon who transformed Portugal",
@@ -613,22 +669,6 @@
         "published": "Thu, 05 Nov 2026 14:29:40 GMT",
         "class": "Sports",
         "confidence": 0.9883
-      },
-      {
-        "title": "The boy from Bologna who became world champion",
-        "link": "https://www.bbc.co.uk/sport/formula1/videos/cm17k1gxlze2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Mon, 02 Nov 2026 11:20:40 GMT",
-        "class": "Sports",
-        "confidence": 0.9869
-      },
-      {
-        "title": "Why rugby league needs Tonga-Samoa World Cup final",
-        "link": "https://www.bbc.co.uk/sport/rugby-league/articles/c9kgj3elgmkzo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Wed, 04 Nov 2026 07:00:16 GMT",
-        "class": "Sports",
-        "confidence": 0.9866
       },
       {
         "title": "Watch trailer for Rivals: Fury v Joshua",
@@ -647,6 +687,22 @@
         "confidence": 0.981
       },
       {
+        "title": "Watch the Trailer",
+        "link": "https://www.bbc.co.uk/iplayer/episodes/p0pl8l01/watch/p0plh8pr?seriesId=trailers&at_mid=p4LpO5UyO6&at_campaign=Fury_AJ_trailer_pre_Sport_Rail&at_medium=display_ad&at_campaign_type=owned&at_nation=NET&at_audience_id=SS&at_product=iplayer&at_brand=p0pl8l01&at_ptr_name=bbc&at_ptr_type=media&at_format=image&at_objective=consumption&at_link_title=Fury_AJ_trailer_pre_Sport_Rail&at_bbc_team=BBC&at_creation=Fury_AJ_trailer_pre_Sport_Rail",
+        "source": "BBC Sport",
+        "published": "Tue, 03 Nov 2026 08:06:09 GMT",
+        "class": "Sports",
+        "confidence": 0.9798
+      },
+      {
+        "title": "Buatsi v Hutchinson 2 - world light-heavyweight title fight predictions",
+        "link": "https://www.bbc.co.uk/sport/boxing/articles/c674pek0yd2jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Sat, 07 Nov 2026 08:00:59 GMT",
+        "class": "Sports",
+        "confidence": 0.9792
+      },
+      {
         "title": "Find out more here",
         "link": "https://www.bbc.co.uk/sport/football/articles/ce8e6y90g2jo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
@@ -661,38 +717,6 @@
         "published": "Tue, 27 Oct 2026 06:15:24 GMT",
         "class": "Sports",
         "confidence": 0.9708
-      },
-      {
-        "title": "Everton's Grealish unavailable again after 'breach of discipline'",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cm79p020d9yvo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Thu, 05 Nov 2026 15:28:37 GMT",
-        "class": "Sports",
-        "confidence": 0.966
-      },
-      {
-        "title": "'Putting his doubters in their place' - Rooney lands pundit of year award",
-        "link": "https://www.bbc.co.uk/sport/football/articles/ck4g1l4nj85zo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Fri, 06 Nov 2026 06:22:00 GMT",
-        "class": "Sports",
-        "confidence": 0.959
-      },
-      {
-        "title": "Gloucestershire to rebrand as Bristol for T20 Blast",
-        "link": "https://www.bbc.co.uk/sport/cricket/articles/ckd7q9l0n7dyo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Thu, 05 Nov 2026 13:10:22 GMT",
-        "class": "Sports",
-        "confidence": 0.9571
-      },
-      {
-        "title": "Antonelli title win 'beginning of something special'",
-        "link": "https://www.bbc.co.uk/sport/formula1/videos/cqn73ny0j130o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Mon, 02 Nov 2026 10:37:55 GMT",
-        "class": "Sports",
-        "confidence": 0.9108
       }
     ],
     "Business": [
@@ -721,20 +745,20 @@
         "confidence": 0.9937
       },
       {
-        "title": "Business Daily",
-        "link": "https://www.bbc.co.uk/sounds/play/w3ct8grr?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "published": "Mon, 02 Nov 2026 21:30:00 GMT",
-        "class": "Business",
-        "confidence": 0.9924
-      },
-      {
         "title": "Drivers may get compensation offers before car finance saga ends",
         "link": "https://www.bbc.co.uk/news/articles/cqrky5nxxn4po?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "published": "Tue, 03 Nov 2026 11:56:31 GMT",
         "class": "Business",
         "confidence": 0.9918
+      },
+      {
+        "title": "The economy propelled Democrats to victory. What can they actually do about it?",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6026662/the-economy-propelled-democrats-to-victory-what-can-they-actually-do-about-it",
+        "source": "NPR News",
+        "published": "Fri, 06 Nov 2026 16:53:10 -0500",
+        "class": "Business",
+        "confidence": 0.9914
       },
       {
         "title": "As Christmas rush looms, how do China-made toys find their way to the US?",
@@ -793,12 +817,20 @@
         "confidence": 0.9699
       },
       {
-        "title": "A judge blocks construction of Trump's arch moments after it won federal approval",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6031990/trump-arch-planning-commission-injunction",
-        "source": "NPR News",
-        "published": "Fri, 06 Nov 2026 00:05:43 -0500",
+        "title": "Food bank to close amid rising costs",
+        "link": "https://www.bbc.co.uk/news/articles/cqrkyyj6rx7ro?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "Fri, 06 Nov 2026 16:42:23 GMT",
         "class": "Business",
-        "confidence": 0.9614
+        "confidence": 0.9657
+      },
+      {
+        "title": "Global stocks fall amid ‘big worries over AI’ after Democrats’ midterms triumph",
+        "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
+        "source": "The Guardian World",
+        "published": "Fri, 06 Nov 2026 21:23:54 GMT",
+        "class": "Business",
+        "confidence": 0.952
       },
       {
         "title": "Kellogg's admits snap, crackle and pop is quieter after uproar over Rice Krispies recipe change",
@@ -817,20 +849,12 @@
         "confidence": 0.9482
       },
       {
-        "title": "Judge temporarily halts building work on Trump’s triumphal arch",
-        "link": "https://www.theguardian.com/us-news/2026/nov/06/judge-temporarily-halts-work-trump-triumphal-arch-washington",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 06:36:20 GMT",
+        "title": "Global stocks plunge as fears over US AI slowdown spread to Asia and Europe",
+        "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Technology",
+        "published": "Fri, 06 Nov 2026 13:25:50 GMT",
         "class": "Business",
-        "confidence": 0.9456
-      },
-      {
-        "title": "LIV confirms intention to wind down after five years",
-        "link": "https://www.bbc.co.uk/sport/golf/articles/cq70pdjjgy5no?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Thu, 05 Nov 2026 18:12:32 GMT",
-        "class": "Business",
-        "confidence": 0.9293
+        "confidence": 0.9326
       },
       {
         "title": "Pound rises to its highest level since the Brexit referendum",
@@ -851,12 +875,12 @@
     ],
     "Sci/Tech": [
       {
-        "title": "Friday briefing: After a week of disruption, is living with threats our new normal?",
-        "link": "https://www.theguardian.com/world/2026/nov/06/friday-briefing-after-a-week-of-disruption-is-living-with-threats-our-new-normal",
+        "title": "Lanarkshire AI datacentre to fully rely on National Grid despite renewables claim",
+        "link": "https://www.theguardian.com/uk-news/2026/nov/07/lanarkshire-ai-datacentre-datavita-chapelhall-national-grid-renewable-energy",
         "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 06:43:04 GMT",
+        "published": "Sat, 07 Nov 2026 10:00:08 GMT",
         "class": "Sci/Tech",
-        "confidence": 0.9991
+        "confidence": 0.9994
       },
       {
         "title": "Rainmakers: The drones used to seed clouds",
@@ -865,6 +889,14 @@
         "published": "Wed, 07 Oct 2026 07:09:32 GMT",
         "class": "Sci/Tech",
         "confidence": 0.999
+      },
+      {
+        "title": "When a single vowel stands in the path to victory, the stakes could not be higher for these spelling bee champions",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/07/when-a-single-vowel-stands-in-the-path-to-victory-the-stakes-could-not-be-higher-for-these-spelling-bee-champions",
+        "source": "The Guardian World",
+        "published": "Fri, 06 Nov 2026 23:06:10 GMT",
+        "class": "Sci/Tech",
+        "confidence": 0.9988
       },
       {
         "title": "If hackers can take control of a supermarket freezer, how vulnerable is other tech?",
@@ -883,6 +915,14 @@
         "confidence": 0.9984
       },
       {
+        "title": "EU charges TikTok with failing to protect users’ mental health",
+        "link": "https://www.theguardian.com/technology/2026/nov/06/eu-charges-tiktok-failure-to-protect-users-mental-health",
+        "source": "The Guardian World",
+        "published": "Fri, 06 Nov 2026 15:17:08 GMT",
+        "class": "Sci/Tech",
+        "confidence": 0.9983
+      },
+      {
         "title": "Tech Now",
         "link": "https://www.bbc.co.uk/iplayer/episode/m0032yng?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology",
@@ -899,28 +939,12 @@
         "confidence": 0.9979
       },
       {
-        "title": "Beau Lamarre-Condon trial: prosecution begins cross-examination of double murder accused – as it happened",
-        "link": "https://www.theguardian.com/australia-news/live/2026/nov/06/beau-lamarre-condon-trial-former-police-accused-murder-case-jesse-baird-luke-davies-ntwnfb",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 02:30:00 GMT",
+        "title": "Watch: Is it the end of the road for Tesla's Cybertruck?",
+        "link": "https://www.bbc.co.uk/news/videos/cv8ezz9ll7nyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 06 Nov 2026 15:02:03 GMT",
         "class": "Sci/Tech",
-        "confidence": 0.9972
-      },
-      {
-        "title": "Democrats flip more House seats – as it happened",
-        "link": "https://www.theguardian.com/us-news/live/2026/nov/05/midterm-elections-live-latest-updates-mississippi-senate-race",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 06:19:03 GMT",
-        "class": "Sci/Tech",
-        "confidence": 0.997
-      },
-      {
-        "title": "Food grown in illegal West Bank settlements being sold in Australia as ‘produce of Israel’",
-        "link": "https://www.theguardian.com/australia-news/2026/nov/04/food-grown-in-settlements-west-bank-sold-in-australia-produce-of-israel-ntwnfb",
-        "source": "The Guardian World",
-        "published": "Wed, 04 Nov 2026 20:00:43 GMT",
-        "class": "Sci/Tech",
-        "confidence": 0.9966
+        "confidence": 0.9978
       },
       {
         "title": "French blood storage impacted by freezer hacks as theories swirl about culprits",
@@ -931,12 +955,36 @@
         "confidence": 0.9963
       },
       {
-        "title": "Death a ‘distinct possibility’ in collision running and face-slapping competitions, inquiry hears",
-        "link": "https://www.theguardian.com/australia-news/2026/nov/06/run-nation-power-slap-combat-sports-safety-inquiry-nsw",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 08:23:10 GMT",
+        "title": "Health intel-sharing group warns industry in wake of cyberattack on French blood bank",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6032602/cyberattack-blood-bank-healthcare",
+        "source": "NPR News",
+        "published": "Fri, 06 Nov 2026 14:00:21 -0500",
         "class": "Sci/Tech",
-        "confidence": 0.9957
+        "confidence": 0.9963
+      },
+      {
+        "title": "TikTok accused of helping to promote sex industry to girls",
+        "link": "https://www.theguardian.com/technology/2026/nov/07/tiktok-sex-industry-girls-onlyfans",
+        "source": "The Guardian World",
+        "published": "Sat, 07 Nov 2026 09:00:07 GMT",
+        "class": "Sci/Tech",
+        "confidence": 0.9954
+      },
+      {
+        "title": "New ‘high safety’ chemicals in plastic food packaging linked to lower birth weight, study finds",
+        "link": "https://www.theguardian.com/us-news/2026/nov/07/nontoxic-plastic-lower-birth-weight-study",
+        "source": "The Guardian World",
+        "published": "Sat, 07 Nov 2026 12:00:13 GMT",
+        "class": "Sci/Tech",
+        "confidence": 0.9949
+      },
+      {
+        "title": "Anti-fire ant eradication activist convicted after using legal arguments ‘similar to sovereign citizens’",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/07/trevor-hold-activist-convicted-qld-fire-ant-eradication-program-queensland-ntwnfb",
+        "source": "The Guardian World",
+        "published": "Fri, 06 Nov 2026 14:00:46 GMT",
+        "class": "Sci/Tech",
+        "confidence": 0.9948
       },
       {
         "title": "Binance says fake job interviews used as part of $6.3bn crypto hack",
@@ -947,20 +995,28 @@
         "confidence": 0.9942
       },
       {
+        "title": "An unexpected activist emerged to help block a $5 billion data center in Maryland",
+        "link": "https://www.npr.org/2026/11/07/nx-s1-6007770/data-centers-activist-moratorium",
+        "source": "NPR News",
+        "published": "Sat, 07 Nov 2026 05:00:00 -0500",
+        "class": "Sci/Tech",
+        "confidence": 0.9937
+      },
+      {
         "title": "Elon Musk appears to signal the end of the road for Cybertruck",
         "link": "https://www.bbc.co.uk/news/articles/cq1j33w7d232o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 09:57:04 GMT",
+        "published": "Fri, 06 Nov 2026 21:49:50 GMT",
         "class": "Sci/Tech",
         "confidence": 0.9934
       },
       {
-        "title": "UK found to be ‘dangerously’ reliant on China for critical minerals needed for defence and AI",
-        "link": "https://www.theguardian.com/world/2026/nov/05/uk-dangerously-reliant-on-china-critical-minerals-military-ai-renewable-energy",
+        "title": "The Victorian Liberals’ campaign bus was supposed to be a reset. Instead it became the symbol of a rough week",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/07/the-victorian-liberals-campaign-bus-was-supposed-to-be-a-reset-instead-it-became-the-symbol-of-a-rough-week",
         "source": "The Guardian World",
-        "published": "Thu, 05 Nov 2026 05:00:55 GMT",
+        "published": "Fri, 06 Nov 2026 14:00:45 GMT",
         "class": "Sci/Tech",
-        "confidence": 0.9934
+        "confidence": 0.9926
       },
       {
         "title": "UK ministers told not to engage formally with Indian mega-zoo after lobbying",
@@ -985,6 +1041,22 @@
         "published": "Tue, 20 Oct 2026 23:13:24 GMT",
         "class": "Sci/Tech",
         "confidence": 0.9914
+      },
+      {
+        "title": "Ben Roberts-Smith collaborates with gym business run by influencer that sold ‘war crimes’ pre-workout supplement",
+        "link": "https://www.theguardian.com/australia-news/2026/nov/07/ben-roberts-smith-collaborates-gym-business-influencer-war-crimes-pre-workout-supplement-ntwnfb",
+        "source": "The Guardian World",
+        "published": "Sat, 07 Nov 2026 00:58:11 GMT",
+        "class": "Sci/Tech",
+        "confidence": 0.9913
+      },
+      {
+        "title": "Early release prisoners facing street homelessness, probation staff warn",
+        "link": "https://www.theguardian.com/society/2026/nov/07/early-release-prisoners-street-homelessness-england",
+        "source": "The Guardian World",
+        "published": "Sat, 07 Nov 2026 07:00:06 GMT",
+        "class": "Sci/Tech",
+        "confidence": 0.9909
       },
       {
         "title": "The AI telling farmers when to harvest",
@@ -1075,12 +1147,12 @@
         "confidence": 0.9741
       },
       {
-        "title": "Trump signs proclamation to try to prevent changes to gold-covered Oval Office",
-        "link": "https://www.theguardian.com/us-news/2026/nov/05/trump-oval-office-design-proclamation",
+        "title": "What’s the point? Ten years after the Paris treaty, are climate talks getting anywhere?",
+        "link": "https://www.theguardian.com/environment/ng-interactive/2026/nov/07/whats-the-point-ten-years-after-the-paris-treaty-are-climate-talks-getting-anywhere",
         "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 00:29:06 GMT",
+        "published": "Sat, 07 Nov 2026 05:00:02 GMT",
         "class": "Sci/Tech",
-        "confidence": 0.9734
+        "confidence": 0.9705
       },
       {
         "title": "'I don't fear for my safety from online abuse - because we're so used to it'",
@@ -1091,28 +1163,12 @@
         "confidence": 0.9678
       },
       {
-        "title": "Binance users withdraw $3.6bn after largest-ever crypto hack",
-        "link": "https://www.bbc.co.uk/news/articles/cwj34gdmnly4o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "Mon, 02 Nov 2026 07:42:33 GMT",
-        "class": "Sci/Tech",
-        "confidence": 0.9626
-      },
-      {
-        "title": "Australia faces same issues that flipped control of US Congress in midterms, experts say",
-        "link": "https://www.theguardian.com/australia-news/2026/nov/06/us-midterms-warning-for-australia-cost-of-living-fuel-prices",
+        "title": "Trump faces criticism for ‘dangerous’ Stephen Miller appointment as White House chief of staff",
+        "link": "https://www.theguardian.com/us-news/2026/nov/07/stephen-miller-democrats-react",
         "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 04:45:24 GMT",
+        "published": "Sat, 07 Nov 2026 10:00:08 GMT",
         "class": "Sci/Tech",
-        "confidence": 0.9595
-      },
-      {
-        "title": "Fill in the blank in the quiz: Vance says they lost the midterms because of ____",
-        "link": "https://www.npr.org/2026/11/06/g-s1-152045/news-quiz-midterms-vance-pope-kennedy-center",
-        "source": "NPR News",
-        "published": "Fri, 06 Nov 2026 05:00:00 -0500",
-        "class": "Sci/Tech",
-        "confidence": 0.9555
+        "confidence": 0.949
       },
       {
         "title": "Drunk and dangerous e-bike riders face on-the-spot fines under crackdown",
@@ -1123,20 +1179,12 @@
         "confidence": 0.9416
       },
       {
-        "title": "US midterm elections 2026 live: Democrats exceed 250 House seats as blue wave sweeping Congress grows",
-        "link": "https://www.theguardian.com/us-news/live/2026/nov/06/us-midterm-elections-2026-democrats-blue-wave-congress-latest-news-updates",
+        "title": "Russell Brand barrister reports himself to watchdog over clash with journalist",
+        "link": "https://www.theguardian.com/culture/2026/nov/06/russell-brand-barrister-ian-winter-reports-himself-bar-watchdog-confronting-sunday-times-journalist",
         "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 10:25:38 GMT",
+        "published": "Sat, 07 Nov 2026 10:04:01 GMT",
         "class": "Sci/Tech",
-        "confidence": 0.9406
-      },
-      {
-        "title": "'All this food is now useless': Piles of rubbish after shop freezers hit by cyber-attack",
-        "link": "https://www.bbc.co.uk/news/videos/cmwyvrgk9p0ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "published": "Mon, 02 Nov 2026 17:34:58 GMT",
-        "class": "Sci/Tech",
-        "confidence": 0.9372
+        "confidence": 0.9373
       },
       {
         "title": "Sinkholes, scarred land and scapegoats: the scourge of illegal gold mining in Johannesburg",
@@ -1155,14 +1203,6 @@
         "confidence": 0.9352
       },
       {
-        "title": "Burnham to force employers to publish salaries on job ads in latest government ‘small fix’ – UK politics live",
-        "link": "https://www.theguardian.com/politics/live/2026/nov/06/burnham-force-employers-publish-salaries-job-ads-labour-chagos-islands-shabana-mahmood-eu-universities-brexit-kemi-badenoch-tories-uk-politics-latest-news",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 10:28:41 GMT",
-        "class": "Sci/Tech",
-        "confidence": 0.93
-      },
-      {
         "title": "How long will humans be needed for translation?",
         "link": "https://www.bbc.co.uk/news/articles/c1wxdjx27ypo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
@@ -1171,62 +1211,22 @@
         "confidence": 0.9097
       },
       {
-        "title": "Trump wooed Latino voters, but his ICE tactics sent them back to the polls: ‘They’re taking our neighbors’",
-        "link": "https://www.theguardian.com/us-news/2026/nov/06/latino-voters-midterms-republicans-trump",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 10:00:50 GMT",
+        "title": "Cornell faculty pass no-confidence vote over leadership's handling of Jane Doe allegations",
+        "link": "https://www.bbc.co.uk/news/articles/c933xxl8yv0go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 06 Nov 2026 23:46:08 GMT",
         "class": "Sci/Tech",
-        "confidence": 0.9087
+        "confidence": 0.9067
       }
     ],
     "uncertain": [
       {
-        "title": "Could Hyrox's Olympic ambition spell the end for triathlon?",
-        "link": "https://www.bbc.co.uk/sport/triathlon/articles/cwp9ge311n91o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Wed, 04 Nov 2026 11:52:19 GMT",
-        "class": "Sports",
-        "confidence": 0.8957
-      },
-      {
-        "title": "'Utter chaos at Ferrari right now'",
-        "link": "https://www.bbc.co.uk/sport/videos/c6kgl9mgdvl2o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Mon, 02 Nov 2026 10:39:57 GMT",
-        "class": "Sports",
-        "confidence": 0.8889
-      },
-      {
-        "title": "Paraguay President Santiago Peña resigns after bank collapse",
-        "link": "https://www.bbc.co.uk/news/articles/c6p9g39vln3yo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 05 Nov 2026 17:40:40 GMT",
-        "class": "World",
-        "confidence": 0.8886
-      },
-      {
-        "title": "The midterms were a thumping rebuke of the US-Israel relationship",
-        "link": "https://www.theguardian.com/us-news/2026/nov/04/israel-relationship-midterm-elections",
-        "source": "The Guardian World",
-        "published": "Wed, 04 Nov 2026 19:22:43 GMT",
-        "class": "World",
-        "confidence": 0.8874
-      },
-      {
-        "title": "Iran unveils ‘We will kill Trump’ banner – but US president may now be tempted to resume bombing",
-        "link": "https://www.theguardian.com/us-news/2026/nov/04/joy-iran-trump-defeat-us-midterm-elections-war",
-        "source": "The Guardian World",
-        "published": "Wed, 04 Nov 2026 14:07:17 GMT",
-        "class": "World",
-        "confidence": 0.8818
-      },
-      {
-        "title": "Morning news brief",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-6023117/morning-news-brief",
-        "source": "NPR News",
-        "published": "Fri, 06 Nov 2026 04:47:37 -0500",
-        "class": "Business",
-        "confidence": 0.8769
+        "title": "Why the US midterms sparked an AI stock selloff",
+        "link": "https://www.bbc.co.uk/news/articles/crlykkzwwpydo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "Fri, 06 Nov 2026 18:32:16 GMT",
+        "class": "Sci/Tech",
+        "confidence": 0.8946
       },
       {
         "title": "The Indian workers filming their work to train AI",
@@ -1245,20 +1245,20 @@
         "confidence": 0.8757
       },
       {
-        "title": "Low birth rates were emptying public schools. ICE deportations are now making it worse",
-        "link": "https://www.npr.org/2026/11/06/nx-s1-5971283/public-school-enrollment-ice-deportation-birthrate",
-        "source": "NPR News",
-        "published": "Fri, 06 Nov 2026 05:00:00 -0500",
-        "class": "World",
-        "confidence": 0.8713
+        "title": "Activists break into building site of Microsoft datacentre in Amsterdam",
+        "link": "https://www.theguardian.com/world/2026/nov/06/activists-break-into-building-site-of-microsoft-datacentre-in-amsterdam",
+        "source": "The Guardian World",
+        "published": "Fri, 06 Nov 2026 18:51:37 GMT",
+        "class": "Sci/Tech",
+        "confidence": 0.8723
       },
       {
-        "title": "Championship preview: Contenders, pretenders and strugglers",
-        "link": "https://www.bbc.co.uk/sport/football/articles/c38xzkkgg7rpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Fri, 06 Nov 2026 09:22:00 GMT",
-        "class": "Sports",
-        "confidence": 0.8677
+        "title": "Spate of bomb threats poses serious challenge to airline industry",
+        "link": "https://www.bbc.co.uk/news/articles/cv8ezz9yn6pyo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 06 Nov 2026 16:18:44 GMT",
+        "class": "World",
+        "confidence": 0.8701
       },
       {
         "title": "Aviation faces hotter, stormier skies – and passengers might have to accept more disruption",
@@ -1269,6 +1269,14 @@
         "confidence": 0.865
       },
       {
+        "title": "Spain's rail authorities face European fraud probe after Urda rail disaster",
+        "link": "https://www.bbc.co.uk/news/articles/c6x2wwnz5445o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 06 Nov 2026 17:44:02 GMT",
+        "class": "World",
+        "confidence": 0.8643
+      },
+      {
         "title": "Australia's oldest department store David Jones folds after 188 years",
         "link": "https://www.bbc.co.uk/news/articles/cky93z5y0171o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
@@ -1277,18 +1285,26 @@
         "confidence": 0.8639
       },
       {
-        "title": "Firms told to publish salaries in job adverts ahead of new law",
-        "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+        "title": "Workers' rights 'second place' to economic growth",
+        "link": "https://www.bbc.co.uk/news/videos/cq369l9r634ro?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "published": "Fri, 06 Nov 2026 07:36:41 GMT",
+        "published": "Fri, 06 Nov 2026 14:52:49 GMT",
         "class": "Business",
-        "confidence": 0.8589
+        "confidence": 0.8609
+      },
+      {
+        "title": "With Stephen Miller pick, Trump readies for a battle",
+        "link": "https://www.bbc.co.uk/news/articles/crp3gg2z171go?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 06 Nov 2026 23:24:15 GMT",
+        "class": "World",
+        "confidence": 0.8552
       },
       {
         "title": "'I've taken an extra job to pay for heating oil'",
         "link": "https://www.bbc.co.uk/news/articles/cmj47j7e92gvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "published": "Fri, 06 Nov 2026 06:06:00 GMT",
+        "published": "Fri, 06 Nov 2026 11:40:35 GMT",
         "class": "World",
         "confidence": 0.8541
       },
@@ -1301,20 +1317,12 @@
         "confidence": 0.8515
       },
       {
-        "title": "Met police chief urges potential victims of Russell Brand to come forward",
-        "link": "https://www.theguardian.com/uk-news/2026/nov/06/met-police-chief-potential-victims-russell-brand-come-forward",
+        "title": "Ousted Paraguay president under house arrest after banking crisis leaves 60% of country unable to access accounts",
+        "link": "https://www.theguardian.com/world/2026/nov/07/ousted-paraguay-president-under-house-arrest-after-banking-crisis-leaves-60-of-country-unable-to-access-accounts",
         "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 10:00:23 GMT",
+        "published": "Sat, 07 Nov 2026 01:55:11 GMT",
         "class": "World",
-        "confidence": 0.8513
-      },
-      {
-        "title": "‘Clicky Ponting’ cheating scandal cricketer banned and club relegated",
-        "link": "https://www.theguardian.com/sport/2026/nov/06/clicky-ponting-cheating-scandal-cricketer-brian-devine-banned-club-relegated",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 10:30:38 GMT",
-        "class": "Sports",
-        "confidence": 0.8454
+        "confidence": 0.8443
       },
       {
         "title": "Europe's car makers are in crisis. Will the threat of war rescue them?",
@@ -1323,6 +1331,14 @@
         "published": "Fri, 25 Sep 2026 08:31:56 GMT",
         "class": "Business",
         "confidence": 0.8314
+      },
+      {
+        "title": "Bomb threats against European flights ‘likely a coordinated campaign of disruption’, Ireland says – as it happened",
+        "link": "https://www.theguardian.com/world/live/2026/nov/06/high-alert-hoax-bomb-threats-france-air-lingus-belgium-pope-leo-europe-live",
+        "source": "The Guardian World",
+        "published": "Fri, 06 Nov 2026 16:26:17 GMT",
+        "class": "Sci/Tech",
+        "confidence": 0.8288
       },
       {
         "title": "ANC faces anger over poor services as South Africans vote in local elections",
@@ -1349,20 +1365,20 @@
         "confidence": 0.8179
       },
       {
-        "title": "Global tech stocks plunge as US midterms add to AI slowdown fears",
-        "link": "https://www.bbc.co.uk/news/articles/cmn04705rd8jo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "published": "Fri, 06 Nov 2026 07:27:26 GMT",
-        "class": "Business",
-        "confidence": 0.8131
+        "title": "The end of Maga as we know it",
+        "link": "https://www.theguardian.com/news/ng-interactive/2026/nov/07/the-end-of-maga-as-we-know-it",
+        "source": "The Guardian World",
+        "published": "Sat, 07 Nov 2026 06:00:05 GMT",
+        "class": "Sci/Tech",
+        "confidence": 0.8142
       },
       {
-        "title": "Mother and daughter killed in grizzly bear attack, Canadian authorities confirm",
-        "link": "https://www.theguardian.com/world/2026/nov/04/canada-bear-attack-mother-daughter-killed",
-        "source": "The Guardian World",
-        "published": "Wed, 04 Nov 2026 19:42:47 GMT",
-        "class": "Sci/Tech",
-        "confidence": 0.8045
+        "title": "Four things we learned this week about 2028 White House race",
+        "link": "https://www.bbc.co.uk/news/articles/cq1m41n3v7mmo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Sat, 07 Nov 2026 12:23:28 GMT",
+        "class": "Business",
+        "confidence": 0.8034
       },
       {
         "title": "What in the World",
@@ -1371,22 +1387,6 @@
         "published": "Tue, 03 Nov 2026 14:30:00 GMT",
         "class": "Business",
         "confidence": 0.8003
-      },
-      {
-        "title": "Global stocks plunge amid AI slowdown fears after Democrats’ midterm triumph",
-        "link": "https://www.theguardian.com/business/2026/nov/06/global-stocks-plunge-amid-ai-slowdown-fears-after-democrats-midterm-triumph",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 08:58:22 GMT",
-        "class": "Business",
-        "confidence": 0.796
-      },
-      {
-        "title": "Bomb threats disrupt dozens of flights across Europe, raising hybrid war fears",
-        "link": "https://www.theguardian.com/world/2026/nov/05/bomb-threats-disrupt-flights-across-europe-and-renew-hybrid-warfare-fears",
-        "source": "The Guardian World",
-        "published": "Thu, 05 Nov 2026 18:17:36 GMT",
-        "class": "Sci/Tech",
-        "confidence": 0.7849
       },
       {
         "title": "How Antonelli 'blew everyone away' to make F1 history",
@@ -1398,19 +1398,11 @@
       },
       {
         "title": "Who am I? Plus today's other quizzes",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cm78p02288epo?at_medium=RSS&at_campaign=rss",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cwg5jj21e519o?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "Fri, 06 Nov 2026 06:13:26 GMT",
+        "published": "Sat, 07 Nov 2026 06:53:35 GMT",
         "class": "Sports",
         "confidence": 0.7602
-      },
-      {
-        "title": "Fears of an AI crackdown after midterms spark $2 trillion rout in tech stocks",
-        "link": "https://www.npr.org/2026/11/05/nx-s1-6031987/stock-markets-ai-midterm-elections",
-        "source": "NPR News",
-        "published": "Thu, 05 Nov 2026 19:16:53 -0500",
-        "class": "Business",
-        "confidence": 0.7563
       },
       {
         "title": "Are women better than men at endurance running?",
@@ -1421,12 +1413,12 @@
         "confidence": 0.7523
       },
       {
-        "title": "White House denies Hegseth and Rubio to leave jobs after Republican election losses",
-        "link": "https://www.bbc.co.uk/news/articles/cqg7xxg4jdv5o?at_medium=RSS&at_campaign=rss",
+        "title": "Paraguay's president impeached and under house arrest after bank collapse",
+        "link": "https://www.bbc.co.uk/news/articles/c68jzzvjgdy9o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 02:08:57 GMT",
-        "class": "Sports",
-        "confidence": 0.7502
+        "published": "Sat, 07 Nov 2026 07:20:00 GMT",
+        "class": "World",
+        "confidence": 0.7497
       },
       {
         "title": "A team that offered hope... then, four months later, Hamas attacked Israel",
@@ -1437,12 +1429,12 @@
         "confidence": 0.7397
       },
       {
-        "title": "Leicester fans angry at sponsor's link to porn actress",
-        "link": "https://www.bbc.co.uk/news/articles/cq3dj7jv1d3ro?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Thu, 05 Nov 2026 21:12:48 GMT",
-        "class": "Sports",
-        "confidence": 0.7363
+        "title": "Trump may have lost but don’t bet Democrats can fix the economy",
+        "link": "https://www.theguardian.com/business/2026/nov/07/democrats-economy-affordability-crisis",
+        "source": "The Guardian World",
+        "published": "Sat, 07 Nov 2026 11:00:08 GMT",
+        "class": "Business",
+        "confidence": 0.7364
       },
       {
         "title": "The engine parts that 'fight the laws of the universe'",
@@ -1469,20 +1461,20 @@
         "confidence": 0.717
       },
       {
-        "title": "Denmark’s top court to rule on ‘parallel societies’ after ‘non-western’ people evicted",
-        "link": "https://www.theguardian.com/world/2026/nov/06/denmarks-top-court-to-rule-on-parallel-societies-after-non-western-people-evicted",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 10:00:49 GMT",
-        "class": "Sci/Tech",
-        "confidence": 0.7169
+        "title": "PM tells firms to publish salaries in job adverts ahead of new law",
+        "link": "https://www.bbc.co.uk/news/articles/cmd9343z3zw2o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "Fri, 06 Nov 2026 15:25:43 GMT",
+        "class": "Business",
+        "confidence": 0.7056
       },
       {
-        "title": "Egypt fines prominent editor Lina Attalah and shuts independent news outlet Mada Masr",
-        "link": "https://www.theguardian.com/world/2026/oct/28/egypt-lina-attalah-mada-masr-press-freedom-clampdown",
-        "source": "The Guardian World",
-        "published": "Wed, 28 Oct 2026 14:16:24 GMT",
+        "title": "Portugal coach 'knew nothing' about Ronaldo retiring",
+        "link": "https://www.bbc.co.uk/sport/football/articles/cwzd66r22j68o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Sport",
+        "published": "Fri, 06 Nov 2026 14:25:41 GMT",
         "class": "World",
-        "confidence": 0.7128
+        "confidence": 0.6956
       },
       {
         "title": "Faster than F1: The extreme motorsport where women keep winning",
@@ -1501,20 +1493,20 @@
         "confidence": 0.6838
       },
       {
-        "title": "Peru airport officials discover 3,000 tarantulas smuggled inside dirty socks",
-        "link": "https://www.theguardian.com/world/2026/nov/06/3000-tarantulas-smuggled-inside-dirty-socks-peru",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 01:22:49 GMT",
-        "class": "World",
-        "confidence": 0.6779
+        "title": "'My mortgage is going up £200': How rising interest rates are hitting people's pockets",
+        "link": "https://www.bbc.co.uk/news/articles/c617kjqjvk12o?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "Sat, 07 Nov 2026 01:41:36 GMT",
+        "class": "Business",
+        "confidence": 0.6716
       },
       {
-        "title": "Why do veterinary fees and sausage rolls vary in price across London?",
-        "link": "https://www.bbc.co.uk/news/articles/cmgqw51gdnzyo?at_medium=RSS&at_campaign=rss",
+        "title": "Why smoky bacon crisps threaten to reignite rows over EU rules",
+        "link": "https://www.bbc.co.uk/news/articles/cm1dwwqrr1kvo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
-        "published": "Thu, 05 Nov 2026 15:19:36 GMT",
-        "class": "World",
-        "confidence": 0.6745
+        "published": "Fri, 06 Nov 2026 17:19:38 GMT",
+        "class": "Business",
+        "confidence": 0.669
       },
       {
         "title": "Elon Musk's millions failed to deliver Republican wins in fierce midterms",
@@ -1525,22 +1517,6 @@
         "confidence": 0.6666
       },
       {
-        "title": "'Quiet quitting' could be hitting the economy - here's why",
-        "link": "https://www.bbc.co.uk/news/articles/cw23d5z87drpo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Business",
-        "published": "Tue, 03 Nov 2026 11:15:51 GMT",
-        "class": "Business",
-        "confidence": 0.6636
-      },
-      {
-        "title": "Beau Lamarre-Condon tells double murder trial firing first shot at Jesse Baird’s shoulder was ‘the right move’",
-        "link": "https://www.theguardian.com/australia-news/2026/nov/06/beau-lamarre-condon-trial-witness-box-evidence-case-ntwnfb",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 05:17:05 GMT",
-        "class": "Sci/Tech",
-        "confidence": 0.6508
-      },
-      {
         "title": "North Korea denies being behind record $6.3bn Binance hack",
         "link": "https://www.bbc.co.uk/news/articles/c6rey4v53exgo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Technology",
@@ -1549,12 +1525,20 @@
         "confidence": 0.6505
       },
       {
-        "title": "Did a data centre revolt affect the US mid-term election results?",
-        "link": "https://www.bbc.co.uk/news/articles/crvg9yyz5437o?at_medium=RSS&at_campaign=rss",
+        "title": "AI stocks climb after trillions wiped from market values",
+        "link": "https://www.bbc.co.uk/news/articles/c35ynnpzdq51o?at_medium=RSS&at_campaign=rss",
         "source": "BBC World",
-        "published": "Fri, 06 Nov 2026 06:01:13 GMT",
+        "published": "Fri, 06 Nov 2026 21:06:25 GMT",
         "class": "Sci/Tech",
-        "confidence": 0.6449
+        "confidence": 0.6389
+      },
+      {
+        "title": "This teen boy set out to get people talking about periods. He's now a Diana honoree",
+        "link": "https://www.npr.org/2026/11/07/g-s1-152225/princess-diana-honor-menstruation-stigma",
+        "source": "NPR News",
+        "published": "Sat, 07 Nov 2026 06:50:21 -0500",
+        "class": "Sports",
+        "confidence": 0.6239
       },
       {
         "title": "What Marco Rubio’s sidestepping of New Delhi says about the US’s stance on India",
@@ -1565,28 +1549,20 @@
         "confidence": 0.6235
       },
       {
+        "title": "Winter support for residents facing cost pressures",
+        "link": "https://www.bbc.co.uk/news/articles/cm20rrer25ezo?at_medium=RSS&at_campaign=rss",
+        "source": "BBC Business",
+        "published": "Fri, 06 Nov 2026 16:22:18 GMT",
+        "class": "Business",
+        "confidence": 0.6064
+      },
+      {
         "title": "'I live with a ghost' - inside the haunted homes attracting bargain hunters",
         "link": "https://www.bbc.co.uk/news/articles/cqwy78elyrlzo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Business",
         "published": "Thu, 29 Oct 2026 09:30:03 GMT",
         "class": "World",
         "confidence": 0.5989
-      },
-      {
-        "title": "Ronaldo's most iconic moments as he retires from international football",
-        "link": "https://www.bbc.co.uk/sport/football/articles/cew197l8l17o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Sport",
-        "published": "Thu, 05 Nov 2026 11:22:59 GMT",
-        "class": "Sports",
-        "confidence": 0.5811
-      },
-      {
-        "title": "These firms you've never heard of are feeding fears the AI bubble could burst",
-        "link": "https://www.bbc.co.uk/news/articles/cje36degrgv5o?at_medium=RSS&at_campaign=rss",
-        "source": "BBC Technology",
-        "published": "Sun, 01 Nov 2026 01:37:26 GMT",
-        "class": "Business",
-        "confidence": 0.575
       },
       {
         "title": "UK and EU agree draft deal to scrap Brexit red tape over food exports",
@@ -1605,28 +1581,44 @@
         "confidence": 0.5417
       },
       {
-        "title": "Employers to be forced to put salaries on job ads, Andy Burnham announces",
-        "link": "https://www.theguardian.com/law/2026/nov/06/uk-employers-forced-put-salaries-job-adverts-andy-burnham",
-        "source": "The Guardian World",
-        "published": "Fri, 06 Nov 2026 08:54:40 GMT",
-        "class": "World",
-        "confidence": 0.5304
-      },
-      {
-        "title": "Delhi's toxic winter air is back - is the Indian capital prepared for pollution?",
-        "link": "https://www.bbc.co.uk/news/articles/cm78p0n09q3xo?at_medium=RSS&at_campaign=rss",
-        "source": "BBC World",
-        "published": "Thu, 05 Nov 2026 23:16:53 GMT",
-        "class": "Sci/Tech",
-        "confidence": 0.5265
-      },
-      {
-        "title": "From street fighter to world champion - Bentley's rise to top",
-        "link": "https://www.bbc.co.uk/sport/boxing/articles/cr4g1lp8947eo?at_medium=RSS&at_campaign=rss",
+        "title": "Two-year ban for 'Clicky Ponting' cricketer",
+        "link": "https://www.bbc.co.uk/sport/cricket/articles/c62keenz7dzjo?at_medium=RSS&at_campaign=rss",
         "source": "BBC Sport",
-        "published": "Fri, 06 Nov 2026 07:16:34 GMT",
-        "class": "World",
-        "confidence": 0.5151
+        "published": "Fri, 06 Nov 2026 12:00:21 GMT",
+        "class": "Sports",
+        "confidence": 0.5232
+      },
+      {
+        "title": "Home Office sued after stripping almost 1,500 EU citizens of right to live in UK",
+        "link": "https://www.theguardian.com/politics/2026/nov/07/home-office-sued-the3million-eu-citizens-right-to-live-in-uk-pre-settled",
+        "source": "The Guardian World",
+        "published": "Sat, 07 Nov 2026 09:15:35 GMT",
+        "class": "Sci/Tech",
+        "confidence": 0.5188
+      },
+      {
+        "title": "Judge blocks construction of Trump's massive arch after federal agency approval",
+        "link": "https://www.bbc.co.uk/news/articles/cq99zd93ryvko?at_medium=RSS&at_campaign=rss",
+        "source": "BBC World",
+        "published": "Fri, 06 Nov 2026 15:30:42 GMT",
+        "class": "Business",
+        "confidence": 0.4785
+      },
+      {
+        "title": "Trump's global health strategy is emerging. What will the Democratic Congress say?",
+        "link": "https://www.npr.org/2026/11/06/nx-s1-6028828/global-health-usaid-trump-democrats-congress",
+        "source": "NPR News",
+        "published": "Fri, 06 Nov 2026 15:09:58 -0500",
+        "class": "Business",
+        "confidence": 0.4671
+      },
+      {
+        "title": "Florida Republicans survived the ‘blue wave’, but find themselves on shaky ground",
+        "link": "https://www.theguardian.com/us-news/2026/nov/07/florida-republicans-midterm-elections",
+        "source": "The Guardian World",
+        "published": "Sat, 07 Nov 2026 12:00:10 GMT",
+        "class": "Business",
+        "confidence": 0.4386
       }
     ]
   }

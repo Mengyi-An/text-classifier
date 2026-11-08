@@ -46,7 +46,22 @@ The confidence threshold was chosen on the validation set:
 ![Confidence threshold](figures/confidence_threshold.png)
 
 - **At 0.9, errors are cut in half** (5.3% → 2.7%) while 91% of articles are still sorted automatically.
-- **Real news is harder than AG News.** On the first day of live RSS, 27% of headlines fell below 0.9, against 9% on the validation set. AG News is from 2004, so newer topics such as AI and modern politics are less familiar to the model.
+- **Real news is harder than AG News.** On the first day of live RSS, 27% of headlines fell below 0.9, against 9% on the validation set.
+
+### Evaluation on Real News
+
+To measure the gap, 100 random headlines from one day of RSS were hand-labelled. The model's predictions were kept in a separate file during labelling. 7 headlines fit none of the four classes and are left out of accuracy.
+
+|                                | AG News | Real RSS (93 headlines) |
+| ------------------------------ | ------- | ----------------------- |
+| Accuracy, all                  | 94.7%   | **77.4%**               |
+| Coverage at 0.9                | 91.2%   | **73.1%**               |
+| Accuracy at 0.9                | 97.3%   | **82.4%**               |
+
+- **Accuracy drops by 17 points on 2026 news.** AG News is from 2004, so many modern topics are new to the model.
+- **The threshold still helps** (77% → 82%), but it does not bring accuracy back to the validation level.
+- **The model over-predicts Sci/Tech.** 9 of the 12 confident mistakes were predicted as Sci/Tech, for example e-scooter rules, e-bike fines, a US midterm live blog and the Cybertruck. In 2004 news, words like "online" or "e-" almost always meant technology.
+- **Caveat:** 100 headlines from a single day give a rough estimate (about ±4 points), and some headlines (e.g. a politician announcing a jobs rule) sit between two classes.
 
 ## Project Structure
 
@@ -62,6 +77,9 @@ src/
   fetch_rss.py   fetch and clean RSS headlines
   daily_brief.py classify today's news -> docs/brief.json
   upload_model.py  upload the model to the Hugging Face Hub
+  export_labels.py sample RSS headlines for hand-labelling
+  evaluate_rss.py  accuracy on the hand-labelled headlines
+labels/          hand-labelled RSS sample and predictions
 docs/            the web page (GitHub Pages)
 figures/         result plots
 .github/workflows/daily-brief.yml   daily job
@@ -88,6 +106,7 @@ Choose the threshold and build today's brief (needs `data/model.pt`):
 ```bash
 python -m src.threshold      # -> figures/confidence_threshold.png
 python -m src.daily_brief    # -> docs/brief.json
+python -m src.evaluate_rss   # accuracy on labels/rss_sample.csv
 ```
 
 Without training, download the model first: `hf download callmezoey/agnews-distilbert model.pt --local-dir data`.

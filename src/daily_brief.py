@@ -13,7 +13,6 @@ Usage:
 
 import os
 import json
-from pprint import pprint
 from datetime import datetime, timezone
 from transformers import AutoTokenizer
 from src.data import model_name, classes
@@ -33,9 +32,6 @@ def classify_articles(articles: list[dict], model, tokenizer):
     function: predict the class and confidence of each article, in batches
     注意: 很多篇文章分成一批一批来预测, 不是切割同一篇文章。
     classify_articles：给每篇文章贴标签，加上 class 和 confidence。文章还是按原来抓取的顺序混在一起。
-
-    output:
-        the same articles, each with two extra fields "class" and "confidence"
     """
     for i in range(0, len(articles), batch_size):
         batch = articles[i: i + batch_size] # batch[0]   = {"title": "Surg...", "source": "BBC", "link": ..., "text": ...}

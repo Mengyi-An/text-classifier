@@ -1,5 +1,6 @@
 """
 Fine-tune DistilBERT on AG News.
+Saving the best model on validation set to model.pt
 
 Steps:
     1. Prepare the data (from src/data.py)
@@ -7,7 +8,7 @@ Steps:
     3. Set up the optimizer, learning rate and scheduler
     4. Training loop: compute loss -> backward pass -> update weights
     5. Evaluate on the validation set after each epoch and save the best model
-    6. Evaluate on the test set once at the end
+    6. Evaluate on the test set once at the end (model.pt)
 
 Usage:
     python -m src.train

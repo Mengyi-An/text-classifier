@@ -6,6 +6,8 @@ Prints coverage / accuracy per threshold and plots the curve.
 
 Output: figures/confidence_threshold.png
 
+We choose final threshold as 0.9 according to the confidence_threshold.png (This procedure is determined manually) 
+
 Usage:
     python -m src.threshold
 """

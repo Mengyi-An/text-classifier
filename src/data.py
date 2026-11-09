@@ -21,8 +21,8 @@ data_path = os.path.join(os.path.dirname(__file__), "..", "data")
 dataset_name = "fancyzhx/ag_news"
 classes = ["World", "Sports", "Business", "Sci/Tech"]
 model_name = "distilbert-base-uncased"
-max_length = 128
 
+max_length = 128
 val_size = 5000
 split_seed = 42
 
@@ -42,9 +42,12 @@ def split_dataset():
         })
     })
     """
+
+    # load the dataset from Hugging Face Hub, cache it in data_path
     raw_dataset = load_dataset(dataset_name, cache_dir=data_path)
     
     # Split the training set into train and validation sets
+    # split is a dictornary
     split = raw_dataset["train"].train_test_split(
         test_size=val_size, seed=split_seed
     )
@@ -83,7 +86,7 @@ def describe_tokens(name, dataset, tokenizer):
     output:
         tokens per text: mean 53.2, max 379
     """
-    n_tokens = []
+    total_tokens = []
     for text in dataset["text"]:
         # tokens is a dict 
         # output: 
@@ -93,13 +96,13 @@ def describe_tokens(name, dataset, tokenizer):
         # }
         tokens = tokenizer(text) 
         num_tokens = len(tokens["input_ids"])
-        n_tokens.append(num_tokens) # n_tokens is a list, which contains the number of tokens in each text
-    n_tokens = np.array(n_tokens) # numpy
-    # print(f"{name} n_tokens: {n_tokens}") in order to check the type of n_tokens
+        total_tokens.append(num_tokens) # total_tokens is a list, which contains the number of tokens in each text
+    total_tokens = np.array(total_tokens) # convert list to numpy, then we can compare total_tokens to limit
     for limit in [64, 128]:
         # token 数超过 64 的文章，占全部文章的百分之几, 超过 128 的文章，占全部文章的百分之几
-        # n_tokens > limit is a boolean array, which contains True or False, True means the number of tokens in this text is greater than limit, False means the number of tokens in this text is less than or equal to limit
-        print(f"  {name} longer than {limit}: {(n_tokens > limit).mean():.2%}")
+        # total_tokens > limit is a boolean array, which contains True or False, True means the number of tokens in this text is greater than limit, False means the number of tokens in this text is less than or equal to limit
+        # 帮我们选 max_length, 超过 128 个 token：0.77%，设成 128 的话，99.2% 的新闻都能完整保留
+        print(f"  {name} longer than {limit}: {(total_tokens > limit).mean():.2%}")
 
 def tokenize(batch, tokenizer):
     """

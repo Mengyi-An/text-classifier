@@ -1,5 +1,6 @@
 """
-DistilBERT text classifier for AG News.
+DistilBERT text classifier for AG News. 
+Convert token to logits.
 
 Structure:
     1. Encoder: pretrained DistilBERT turns each token into a 768-dim vector
@@ -31,6 +32,8 @@ class TextClassifier(nn.Module):
         self.classifier = nn.Sequential(
             # avoid overfitting
             nn.Dropout(dropout),
+
+            # input = hidden_size, output = len(classes) = 4
             nn.Linear(hidden_size, len(classes)) # softmax is included in CrossEntropyLoss, so we don't need to add it here
         )
     

@@ -49,12 +49,4 @@ def predict(texts, model, tokenizer):
     return [{"class": classes[i], "confidence": round(p, 4)} for i, p in zip(indices.tolist(), confidences.tolist())]
 
 
-if __name__ == "__main__":
-    tokenizer = AutoTokenizer.from_pretrained(model_name)
-    model = load_model()
 
-    texts = [
-        "Team wins the final after a late goal"
-    ]
-    probas = predict(texts, model, tokenizer)
-    print(f"probas {probas}")

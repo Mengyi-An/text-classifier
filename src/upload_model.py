@@ -1,12 +1,6 @@
 """
 Upload the trained model (data/model.pt) to the Hugging Face Hub, with a model card.
 
-The daily GitHub Actions job downloads the model from there, so the 260MB file never
-goes into the git repository. The repo is public, so downloading needs no token.
-
-Log in once before running (paste a Write token when asked):
-    hf auth login
-
 Usage:
     python -m src.upload_model
 """

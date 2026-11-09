@@ -43,6 +43,17 @@
       - save_metrics: 保存模型结果到 metrics.json
       - train: 整个模型训练的调度器，负责按顺序把seed, optimizer, training, test, save results这些函数串起来。
 
+   5\) predict.py
+      - load_model: load model and switch to evaluation mode
+      - predict: get confidence and class for each batch of text
+
+   6\)
+
+   7\) fetch_rss.py
+      - clean_text：去掉 HTML 标签，把 &amp; 这类实体转回字符，删掉零宽字符。Guardian 的摘要里就有这些。
+      - fetch_feed：抓一个源，只保留 title、summary、link、source、published 这几个字段。
+      - fetch_all：抓全部源，按 link 或 title 去重，再生成 text = title + summary 给模型用。AG News 本身就是"标题 + 简短描述"的格式。某个源抓取失败时会跳过，不影响其他源。
+
 5. tokenizer 切分时，会在头尾自动加两个特殊 token：[CLS] 和 [SEP]，分别代表文本的开始和结束。它们和普通 token 一样，也会被转成 vector。
 
 以下是一个简单的 example：

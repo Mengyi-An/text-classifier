@@ -5,7 +5,7 @@ Each article becomes "title + summary", the same format as AG News (headline + s
 Articles that appear in more than one feed are kept only once.
 
 Usage:
-    python -m src.fetch_rss
+    python -m src.fetch_news
 """
 
 import re

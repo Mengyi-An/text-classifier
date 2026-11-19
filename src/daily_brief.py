@@ -17,7 +17,7 @@ from datetime import datetime, timezone
 from transformers import AutoTokenizer
 from src.data import model_name, classes
 from src.predict import load_model, predict
-from src.fetch_rss import fetch_all
+from src.fetch_news import fetch_all
 
 docs_path = os.path.join(os.path.dirname(__file__), "..", "docs")
 

@@ -57,7 +57,7 @@ figures/           result plots
 pip install -r requirements.txt
 
 python -m src.baseline
-python -m src.train          # -> data/model.pt (GPU recommended, e.g. Google Colab)
+python -m src.train          # -> data/model.pt
 python -m src.plot           # -> figures/
 python -m src.threshold      # -> figures/confidence_threshold.png
 python -m src.daily_brief    # -> docs/brief.json
@@ -65,4 +65,16 @@ python -m src.evaluate_rss   # accuracy on real news
 
 # or skip training and download the model:
 hf download callmezoey/agnews-distilbert model.pt --local-dir data
+```
+
+Fine-tuning DistilBERT on a CPU is slow. If you don't have a GPU, you can use [Google Colab](https://colab.research.google.com/) with a free T4 (Runtime → Change runtime type). Clone the project into Google Drive so the results stay after the session ends:
+
+```python
+from google.colab import drive
+drive.mount('/content/drive')
+%cd /content/drive/MyDrive
+!git clone https://github.com/Mengyi-An/text-classifier.git
+%cd /content/drive/MyDrive/text-classifier
+!pip install -q datasets   # Colab already has PyTorch and Transformers
+!python -m src.train
 ```
